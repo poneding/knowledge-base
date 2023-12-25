@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 通过 Ingress 进行灰度发布
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 通过 Ingress 进行灰度发布
 
 # 通过 Ingress 进行灰度发布
 

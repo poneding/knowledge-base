@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Kubernetes 定制开发 01：K8s API 概念
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 定制开发 01：K8s API 概念
 
 # Kubernetes 定制开发 01：K8s API 概念
 

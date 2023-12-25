@@ -1,5 +1,5 @@
-[我的知识库](../README.md) / graphql
+[我的知识库](../README.md) / GraphQL
 
-# graphql
+# GraphQL
 
 [Graphql](graphql.md)

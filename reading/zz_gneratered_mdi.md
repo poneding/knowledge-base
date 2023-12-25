@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / reading
+[我的知识库](../README.md) / 阅读笔记
 
-# reading
+# 阅读笔记
 
 [云原生应用开发：Operator原理与实践](云原生应用开发：Operator原理与实践.md)
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [front-end](zz_gneratered_mdi.md) / 认识Vue3
+[我的知识库](../README.md) / [前端技术](zz_gneratered_mdi.md) / 认识Vue3
 
 # 认识Vue3
 

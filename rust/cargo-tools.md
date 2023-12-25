@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [rust](zz_gneratered_mdi.md) / Rust cargo 管理工具
+[我的知识库](../README.md) / [Rust](zz_gneratered_mdi.md) / Rust cargo 管理工具
 
 # Rust cargo 管理工具
 

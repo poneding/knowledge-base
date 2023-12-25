@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / os
+[我的知识库](../README.md) / 操作系统
 
-# os
+# 操作系统
 
 [设置](macos.md)
 

@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / rust
+[我的知识库](../README.md) / Rust
 
-# rust
+# Rust
 
 [Rust cargo 管理工具](cargo-tools.md)
 

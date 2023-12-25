@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [docker](zz_gneratered_mdi.md) / 非 root 账号获取 docker 权限
+[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / 非 root 账号获取 docker 权限
 
 # 非 root 账号获取 docker 权限
 

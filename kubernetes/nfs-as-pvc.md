@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 使用 nfs 持久化存储
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 使用 nfs 持久化存储
 
 # 使用 nfs 持久化存储
 

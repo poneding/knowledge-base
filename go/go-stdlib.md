@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [go](zz_gneratered_mdi.md) / Golang 标准库
+[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 标准库
 
 # Golang 标准库
 

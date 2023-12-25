@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 了解 Pod
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 了解 Pod
 
 # Kubernetes 0-1 了解 Pod
 

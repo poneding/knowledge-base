@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / kubeadm 安装 Kubernetes (Docker)
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / kubeadm 安装 Kubernetes (Docker)
 
 # kubeadm 安装 Kubernetes (Docker)
 

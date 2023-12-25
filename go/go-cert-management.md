@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [go](zz_gneratered_mdi.md) / Golang 密钥对、数字签名和证书管理
+[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 密钥对、数字签名和证书管理
 
 # Golang 密钥对、数字签名和证书管理
 

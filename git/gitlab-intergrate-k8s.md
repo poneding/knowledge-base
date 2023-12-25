@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [git](zz_gneratered_mdi.md) / Gitlab 添加 K8s 集群
+[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / Gitlab 添加 K8s 集群
 
 # Gitlab 添加 K8s 集群
 

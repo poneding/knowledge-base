@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 Helm Kubernetes 的包管理工具
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 Helm Kubernetes 的包管理工具
 
 # Kubernetes 0-1 Helm Kubernetes 的包管理工具
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 定期删除 ElasticSearch 日志索引
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 定期删除 ElasticSearch 日志索引
 
 # 定期删除 ElasticSearch 日志索引
 

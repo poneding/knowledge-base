@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [reading](zz_gneratered_mdi.md) / 云原生应用开发：Operator原理与实践
+[我的知识库](../README.md) / [阅读笔记](zz_gneratered_mdi.md) / 云原生应用开发：Operator原理与实践
 
 # 云原生应用开发：Operator原理与实践
 

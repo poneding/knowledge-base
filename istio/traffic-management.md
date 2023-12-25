@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [istio](zz_gneratered_mdi.md) / Istio 0-1 流量管理方案
+[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / Istio 0-1 流量管理方案
 
 # Istio 0-1 流量管理方案
 

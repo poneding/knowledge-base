@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [docker](zz_gneratered_mdi.md) / Docker 可视化工具 Kitematic
+[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker 可视化工具 Kitematic
 
 # Docker 可视化工具 Kitematic
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [linux](zz_gneratered_mdi.md) / 使用 SSH Tunnel 连接中间件
+[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / 使用 SSH Tunnel 连接中间件
 
 # 使用 SSH Tunnel 连接中间件
 

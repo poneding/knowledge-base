@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / algo
+[我的知识库](../README.md) / 算法与数据结构
 
-# algo
+# 算法与数据结构
 
 [堆排序](heap-sort.md)
 

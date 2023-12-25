@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / linux
+[我的知识库](../README.md) / Linux
 
-# linux
+# Linux
 
 [certbot-auto 生成证书](certbot-auto-gen-cert.md)
 

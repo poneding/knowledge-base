@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [istio](zz_gneratered_mdi.md) / 授权策略 Authorization Policy
+[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 授权策略 Authorization Policy
 
 # 授权策略 Authorization Policy
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [linux](zz_gneratered_mdi.md) / tee 保存 stderr 到文件
+[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / tee 保存 stderr 到文件
 
 # tee 保存 stderr 到文件
 

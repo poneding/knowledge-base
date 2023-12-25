@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [dapr](zz_gneratered_mdi.md) / Dapr 0-1
+[我的知识库](../README.md) / [Dapr](zz_gneratered_mdi.md) / Dapr 0-1
 
 # Dapr 0-1
 

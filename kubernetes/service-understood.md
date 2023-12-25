@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 了解 Service
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 了解 Service
 
 # 了解 Service
 

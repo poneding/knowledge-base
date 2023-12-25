@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [istio](zz_gneratered_mdi.md) / 使用 Istio 实现服务超时
+[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 使用 Istio 实现服务超时
 
 # 使用 Istio 实现服务超时
 

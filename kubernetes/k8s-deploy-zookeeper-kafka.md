@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 K8s部署Zookeeper和Kafka
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 K8s部署Zookeeper和Kafka
 
 # Kubernetes 0-1 K8s部署Zookeeper和Kafka
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [docker](zz_gneratered_mdi.md) / Docker Compose 实践
+[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker Compose 实践
 
 # Docker Compose 实践
 

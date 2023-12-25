@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 二进制搭建 K8s - 1 机器准备
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 二进制搭建 K8s - 1 机器准备
 
 # 二进制搭建 K8s - 1 机器准备
 

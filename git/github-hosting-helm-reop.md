@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [git](zz_gneratered_mdi.md) / GitHub 托管 helm-chart 仓库
+[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / GitHub 托管 helm-chart 仓库
 
 # GitHub 托管 helm-chart 仓库
 

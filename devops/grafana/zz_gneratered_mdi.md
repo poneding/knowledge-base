@@ -1,6 +1,6 @@
-[我的知识库](../../README.md) / [devops](../zz_gneratered_mdi.md) / grafana
+[我的知识库](../../README.md) / [DevOps](../zz_gneratered_mdi.md) / Grafana
 
-# grafana
+# Grafana
 
 [使用grafana监控5xx服务](grafana-monite-service-with-5xx.md)
 

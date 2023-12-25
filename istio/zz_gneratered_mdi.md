@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / istio
+[我的知识库](../README.md) / Istio
 
-# istio
+# Istio
 
 [Istio](Istio.md)
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / kubeadm 安装 k8s (containerd)
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / kubeadm 安装 k8s (containerd)
 
 # kubeadm 安装 k8s (containerd)
 

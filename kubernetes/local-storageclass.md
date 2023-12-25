@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / local 存储卷实践
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / local 存储卷实践
 
 # local 存储卷实践
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / 搭建EKS集群
+[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / 搭建EKS集群
 
 # 搭建EKS集群
 

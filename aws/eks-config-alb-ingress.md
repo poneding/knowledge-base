@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / EKS配置 ALB Ingress
+[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / EKS配置 ALB Ingress
 
 # EKS配置 ALB Ingress
 

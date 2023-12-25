@@ -1,5 +1,5 @@
-[我的知识库](../README.md) / design-pattern
+[我的知识库](../README.md) / 设计模式
 
-# design-pattern
+# 设计模式
 
 [CI/CD](cicd.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [git](zz_gneratered_mdi.md) / 使用 git-secret 保护仓库敏感数据
+[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / 使用 git-secret 保护仓库敏感数据
 
 # 使用 git-secret 保护仓库敏感数据
 

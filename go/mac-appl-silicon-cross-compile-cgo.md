@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [go](zz_gneratered_mdi.md) / Mac M1 交叉编译 CGO
+[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Mac M1 交叉编译 CGO
 
 # Mac M1 交叉编译 CGO
 

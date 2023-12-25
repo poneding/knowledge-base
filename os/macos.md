@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [os](zz_gneratered_mdi.md) / 设置
+[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / 设置
 
 # 设置
 

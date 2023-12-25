@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 反亲和性提高服务可用性
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 反亲和性提高服务可用性
 
 # 反亲和性提高服务可用性
 

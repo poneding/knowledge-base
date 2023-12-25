@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [devops](zz_gneratered_mdi.md) / 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）
+[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）
 
 # 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）
 

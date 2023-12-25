@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [algo](zz_gneratered_mdi.md) / 堆排序
+[我的知识库](../README.md) / [算法与数据结构](zz_gneratered_mdi.md) / 堆排序
 
 # 堆排序
 

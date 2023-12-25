@@ -1,8 +1,8 @@
-[我的知识库](../README.md) / kubernetes
+[我的知识库](../README.md) / Kubernetes
 
-# kubernetes
+# Kubernetes
 
-## [kubevirt](kubevirt/zz_gneratered_mdi.md)
+## [KubeVirt](kubevirt/zz_gneratered_mdi.md)
 
 - [Kubevirt 实践](kubevirt/kubevirt-practice.md)
 

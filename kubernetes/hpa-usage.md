@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 实现Pod自动扩缩HPA
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 实现Pod自动扩缩HPA
 
 # Kubernetes 0-1 实现Pod自动扩缩HPA
 

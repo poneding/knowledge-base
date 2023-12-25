@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [docker](zz_gneratered_mdi.md) / Docker 容器中安装 PFX 证书
+[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker 容器中安装 PFX 证书
 
 # Docker 容器中安装 PFX 证书
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 二进制搭建 K8s - 2 部署 etcd 集群
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 二进制搭建 K8s - 2 部署 etcd 集群
 
 # 二进制搭建 K8s - 2 部署 etcd 集群
 

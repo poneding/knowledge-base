@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [go](zz_gneratered_mdi.md) / 使用 Go 生成 OpenSSH 兼容的 RSA 密钥对
+[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / 使用 Go 生成 OpenSSH 兼容的 RSA 密钥对
 
 # 使用 Go 生成 OpenSSH 兼容的 RSA 密钥对
 

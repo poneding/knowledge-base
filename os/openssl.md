@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [os](zz_gneratered_mdi.md) / openssl
+[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / openssl
 
 # openssl
 

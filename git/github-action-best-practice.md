@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [git](zz_gneratered_mdi.md) / Github Action 使用最佳实践
+[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / Github Action 使用最佳实践
 
 # Github Action 使用最佳实践
 

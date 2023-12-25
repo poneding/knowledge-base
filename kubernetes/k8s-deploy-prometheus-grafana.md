@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 可能需要运行多次以下命令，确保k8s资源都创建
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 可能需要运行多次以下命令，确保k8s资源都创建
 
 ## Step
 

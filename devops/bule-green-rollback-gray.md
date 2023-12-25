@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [devops](zz_gneratered_mdi.md) / 蓝绿部署、滚动部署和灰度部署
+[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / 蓝绿部署、滚动部署和灰度部署
 
 # 蓝绿部署、滚动部署和灰度部署
 

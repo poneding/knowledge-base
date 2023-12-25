@@ -1,4 +1,4 @@
-[我的知识库](../../README.md) / [devops](../zz_gneratered_mdi.md) / [grafana](zz_gneratered_mdi.md) / 使用Grafana监控service
+[我的知识库](../../README.md) / [DevOps](../zz_gneratered_mdi.md) / [Grafana](zz_gneratered_mdi.md) / 使用Grafana监控service
 
 # 使用Grafana监控service
 

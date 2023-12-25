@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [istio](zz_gneratered_mdi.md) / 实现 Https 协议的转发
+[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 实现 Https 协议的转发
 
 # 实现 Https 协议的转发
 

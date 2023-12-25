@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Prometheus-监控Kong完整操作
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Prometheus-监控Kong完整操作
 
 # Prometheus-监控Kong完整操作
 

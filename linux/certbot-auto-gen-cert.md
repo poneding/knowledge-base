@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [linux](zz_gneratered_mdi.md) / certbot-auto 生成证书
+[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / certbot-auto 生成证书
 
 # certbot-auto 生成证书
 

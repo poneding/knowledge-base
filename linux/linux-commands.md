@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [linux](zz_gneratered_mdi.md) / Linux 命令
+[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / Linux 命令
 
 # Linux 命令
 

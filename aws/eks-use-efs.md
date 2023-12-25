@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / EKS-使用EFS
+[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / EKS-使用EFS
 
 # EKS-使用EFS
 

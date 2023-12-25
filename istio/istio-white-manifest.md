@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [istio](zz_gneratered_mdi.md) / 应用层级设置访问白名单
+[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 应用层级设置访问白名单
 
 # 应用层级设置访问白名单
 

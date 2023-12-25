@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [design-pattern](zz_gneratered_mdi.md) / CI/CD
+[我的知识库](../README.md) / [设计模式](zz_gneratered_mdi.md) / CI/CD
 
 # CI/CD
 

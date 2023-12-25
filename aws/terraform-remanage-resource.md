@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / Terraform 重新管理资源
+[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / Terraform 重新管理资源
 
 # Terraform 重新管理资源
 

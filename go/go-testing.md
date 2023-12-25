@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [go](zz_gneratered_mdi.md) / testing
+[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / testing
 
 # testing
 

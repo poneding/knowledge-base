@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [rust](zz_gneratered_mdi.md) / Rust 开发环境配置
+[我的知识库](../README.md) / [Rust](zz_gneratered_mdi.md) / Rust 开发环境配置
 
 # Rust 开发环境配置
 

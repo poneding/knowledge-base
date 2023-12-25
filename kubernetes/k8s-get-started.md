@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 简单介绍 K8s
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 简单介绍 K8s
 
 # 简单介绍 K8s
 

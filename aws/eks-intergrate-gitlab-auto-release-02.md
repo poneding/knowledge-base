@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / EKS实践 集成Gitlab自动发布（二）
+[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / EKS实践 集成Gitlab自动发布（二）
 
 # EKS实践 集成Gitlab自动发布（二）
 

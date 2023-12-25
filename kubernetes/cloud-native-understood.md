@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 尝试理解云原生
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 尝试理解云原生
 
 # Kubernetes 0-1 尝试理解云原生
 

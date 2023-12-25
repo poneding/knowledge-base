@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / cka
+[我的知识库](../README.md) / CKA
 
-# cka
+# CKA
 
 [001](001.md)
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / HTTP 客户端调用 Kubernetes APIServer
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / HTTP 客户端调用 Kubernetes APIServer
 
 # HTTP 客户端调用 Kubernetes APIServer
 

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [istio](zz_gneratered_mdi.md) / 应用平台实现应用金丝雀发布
+[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 应用平台实现应用金丝雀发布
 
 # 应用平台实现应用金丝雀发布
 

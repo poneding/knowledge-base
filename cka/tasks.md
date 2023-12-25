@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [cka](zz_gneratered_mdi.md) / 考题
+[我的知识库](../README.md) / [CKA](zz_gneratered_mdi.md) / 考题
 
 # 考题
 

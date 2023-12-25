@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [rust](zz_gneratered_mdi.md) / Rust VSCode 调试
+[我的知识库](../README.md) / [Rust](zz_gneratered_mdi.md) / Rust VSCode 调试
 
 # Rust VSCode 调试
 

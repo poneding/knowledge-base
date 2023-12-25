@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [istio](zz_gneratered_mdi.md) / Istio 0-1 使用Istio实现Cors
+[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / Istio 0-1 使用Istio实现Cors
 
 # Istio 0-1 使用Istio实现Cors
 

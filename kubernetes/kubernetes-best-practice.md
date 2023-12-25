@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 Kubernetes最佳实践
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 Kubernetes最佳实践
 
 # Kubernetes 0-1 Kubernetes最佳实践
 

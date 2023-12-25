@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / Gitlab & EKS
+[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / Gitlab & EKS
 
 # Gitlab & EKS
 

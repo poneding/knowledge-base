@@ -1,4 +1,4 @@
-[我的知识库](../../README.md) / [devops](../zz_gneratered_mdi.md) / [jeager](zz_gneratered_mdi.md) / Jaeger
+[我的知识库](../../README.md) / [DevOps](../zz_gneratered_mdi.md) / [Jeager](zz_gneratered_mdi.md) / Jaeger
 
 # Jaeger
 

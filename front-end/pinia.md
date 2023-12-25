@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [front-end](zz_gneratered_mdi.md) / Pinia 入门
+[我的知识库](../README.md) / [前端技术](zz_gneratered_mdi.md) / Pinia 入门
 
 # Pinia 入门
 

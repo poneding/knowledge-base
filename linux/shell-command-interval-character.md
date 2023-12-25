@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [linux](zz_gneratered_mdi.md) / shell 命令间隔符
+[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / shell 命令间隔符
 
 # shell 命令间隔符
 

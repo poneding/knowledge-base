@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / git
+[我的知识库](../README.md) / Git
 
-# git
+# Git
 
 [Git 常用](common-usage.md)
 

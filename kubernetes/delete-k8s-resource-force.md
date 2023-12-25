@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / 强制删除 K8s 资源
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 强制删除 K8s 资源
 
 # 强制删除 K8s 资源
 

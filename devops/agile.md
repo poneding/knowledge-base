@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [devops](zz_gneratered_mdi.md) / Agile
+[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / Agile
 
 # Agile
 

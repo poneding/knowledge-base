@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [middle-ware](zz_gneratered_mdi.md) / MongoDB
+[我的知识库](../README.md) / [中间件](zz_gneratered_mdi.md) / MongoDB
 
 # MongoDB
 

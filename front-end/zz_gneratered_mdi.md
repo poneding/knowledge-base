@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / front-end
+[我的知识库](../README.md) / 前端技术
 
-# front-end
+# 前端技术
 
 [SEO](build-site-seo-config.md)
 

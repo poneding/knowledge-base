@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读
+[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读
 
 # Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读
 

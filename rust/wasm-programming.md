@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [rust](zz_gneratered_mdi.md) / Rust WASM 编程
+[我的知识库](../README.md) / [Rust](zz_gneratered_mdi.md) / Rust WASM 编程
 
 # Rust WASM 编程
 

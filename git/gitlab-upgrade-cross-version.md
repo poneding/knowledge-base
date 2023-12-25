@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [git](zz_gneratered_mdi.md) / Gitlab 跨版本升级
+[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / Gitlab 跨版本升级
 
 # Gitlab 跨版本升级
 

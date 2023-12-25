@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [istio](zz_gneratered_mdi.md) / 使用 aws-acm 管理 tls 密钥和证书
+[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 使用 aws-acm 管理 tls 密钥和证书
 
 # 使用 aws-acm 管理 tls 密钥和证书
 

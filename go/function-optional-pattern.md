@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [go](zz_gneratered_mdi.md) / Golang 函数可选参数模式
+[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 函数可选参数模式
 
 # Golang 函数可选参数模式
 

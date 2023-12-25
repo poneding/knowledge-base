@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / aws
+[我的知识库](../README.md) / AWS
 
-# aws
+# AWS
 
 [搭建EKS集群](build-eks-cluster.md)
 
