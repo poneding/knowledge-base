@@ -1,8 +1,5 @@
 [我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / EKS实践 集成Gitlab自动发布（二）
 
-
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / EKS实践 集成Gitlab自动发布（二）
-
 # EKS实践 集成Gitlab自动发布（二）
 
 系列介绍如何使用Gitlab CI/CD自动部署应用到EKS（K8s）集群中。本篇介绍如何为Runnr镜像的制作。

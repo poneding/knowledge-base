@@ -1,8 +1,5 @@
 [我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / K8s 部署 Kong 服务
 
-
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / K8s 部署 Kong 服务
-
 # K8s 部署 Kong 服务
 
 ![image-20200319105924013](https://fs.poneding.com/images/image-20200319105924013.png)

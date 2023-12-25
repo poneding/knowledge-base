@@ -1,8 +1,5 @@
 [我的知识库](../README.md) / [aws](zz_gneratered_mdi.md) / Cluster AutoScaler
 
-
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / Cluster AutoScaler
-
 # Cluster AutoScaler
 
 ![eks.jpg](https://fs.poneding.com/images/eks.jpg)
