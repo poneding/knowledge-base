@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "6d1c7b4ed04f07a0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d6d594c7a0bbfce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c246c723b3cc95ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "os/macos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "db54108cb6ae9a1f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e70958c48d780db7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccca0848adfa9455",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8b0609e6e2d66e41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "850ca987a9104c1e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 367.5
+  },
+  "right": {
+    "id": "dfe206c9a96b1f06",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f2b794b0129811",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60756cb73ef40b84",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "os/macos.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c1a622bfc45d5c96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "os/macos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7ac869f60fc1cae9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31326b9631ee4141",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "os/macos.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "c246c723b3cc95ef",
+  "lastOpenFiles": [
+    "os/ohmyzsh.md",
+    "os/windows.md",
+    "os/ubuntu.md",
+    "os/openssl.md",
+    "os/macos.md",
+    "kubernetes/telepresence.md",
+    "kubernetes/service-understood.md",
+    "kubernetes/secret-understood.md",
+    "kubernetes/pvc-expansion.md",
+    "kubernetes/prometheus-collect-kong-metrics.md",
+    "kubernetes/prometheus.md",
+    "kubernetes/prgramming-kubernetes.md",
+    "kubernetes/pod-understood.md",
+    "kubernetes/nfs-as-pvc.md",
+    "kubernetes/metallb.md",
+    "kubernetes/local-storageclass.md",
+    "kubernetes/liveness-readiness-probe.md",
+    "kubernetes/kustomize.md",
+    "kubernetes/kubernetes-naming-constraints.md",
+    "kubernetes/kubernetes-dashboard.md",
+    "kubernetes/kubernetes-best-practice.md",
+    "kubernetes/kubernetes.md",
+    "kubernetes/kubectl.md",
+    "kubernetes/kubebuilder-inaction.md",
+    "kubernetes/kubeadm-upgrade.md",
+    "kubernetes/kubeadm-install-k8s-docker.md"
+  ]
+}
