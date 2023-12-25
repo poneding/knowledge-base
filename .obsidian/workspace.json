@@ -11,8 +11,12 @@
             "id": "66dbe57ed67e1cc1",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "devops/nginx.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "devops/nginx.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "devops/nginx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "devops/nginx.md"
+              }
             }
           }
         ],
@@ -140,6 +148,11 @@
   },
   "active": "66dbe57ed67e1cc1",
   "lastOpenFiles": [
+    "devops/commercial-canvas.md",
+    "devops/chaos-engineering.md",
+    "devops/ansible.md",
+    "devops/jeager/jeager.md",
+    "dapr/dapr.md",
     "os/macos.md",
     "os/ohmyzsh.md",
     "os/windows.md",
@@ -160,11 +173,6 @@
     "kubernetes/kustomize.md",
     "kubernetes/kubernetes-naming-constraints.md",
     "kubernetes/kubernetes-dashboard.md",
-    "kubernetes/kubernetes-best-practice.md",
-    "kubernetes/kubernetes.md",
-    "kubernetes/kubectl.md",
-    "kubernetes/kubebuilder-inaction.md",
-    "kubernetes/kubeadm-upgrade.md",
-    "kubernetes/kubeadm-install-k8s-docker.md"
+    "kubernetes/kubernetes-best-practice.md"
   ]
 }
