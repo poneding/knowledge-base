@@ -301,21 +301,6 @@ git remote add origin git@github.com/poneding/archives.git
 git push -u --force origin master
 ```
 
-## Mac 配置
-
-### 忽略 .DS_Store 文件
-
-```bash
-# 配置全局忽略文件
-git config --global core.excludesfile ~/.gitignore_global
-
-# 添加 .DS_Store 文件到全局忽略文件
-echo .DS_Store >> ~/.gitignore_global
-echo ._.DS_Store >> ~/.gitignore_global
-echo **/.DS_Store >> ~/.gitignore_global
-echo **/._.DS_Store >> ~/.gitignore_global
-```
-
 ## 排错
 
 ### Q1：证书颁发者未被识别

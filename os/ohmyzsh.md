@@ -61,10 +61,12 @@ sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.
 git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
 ```
 
-- **配置 `.zshrc` 文件添加 ohmyzsh 插件：**：
+- **配置 `.zshrc` 文件添加 ohmyzsh 插件**：
 
 ```bash
-plugins=(git docker docker-compose kubectl autojump zsh-autosuggestions)
+plugins=(git docker docker-compose kubectl autojump zsh-autosuggestions globalias)
+
+GLOBALIAS_FILTER_VALUES=(ls grep)
 ```
 
 ---

@@ -2,6 +2,19 @@
 
 # MacOS
 
+## Git 忽略 .DS_Store 文件
+
+```bash
+# 配置全局忽略文件
+git config --global core.excludesfile ~/.gitignore_global
+
+# 添加 .DS_Store 文件到全局忽略文件
+echo .DS_Store >> ~/.gitignore_global
+echo ._.DS_Store >> ~/.gitignore_global
+echo **/.DS_Store >> ~/.gitignore_global
+echo **/._.DS_Store >> ~/.gitignore_global
+```
+
 ## 配置 PATH
 
 在终端使用 `export` 命令设置 `PATH` 并不能全局生效，如果你想设置全局 `PATH` ，可以使用以下这个方法：
