@@ -107,7 +107,7 @@
 
 ## [gRPC](grpc/zz_gneratered_mdi.md)
 
-- [gRPC 实战](grpc/gRPC.md)
+- [gRPC 实战](grpc/grpc.md)
 
 ## [Istio](istio/zz_gneratered_mdi.md)
 
@@ -205,7 +205,7 @@
 
 ## [操作系统](os/zz_gneratered_mdi.md)
 
-- [设置](os/macos.md)
+- [MacOS](os/macos.md)
 - [ohmyzsh](os/ohmyzsh.md)
 - [openssl](os/openssl.md)
 - [Ubuntu](os/ubuntu.md)

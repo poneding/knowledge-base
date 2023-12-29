@@ -2,7 +2,7 @@
 
 # 操作系统
 
-[设置](macos.md)
+[MacOS](macos.md)
 
 [ohmyzsh](ohmyzsh.md)
 

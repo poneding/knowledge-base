@@ -68,6 +68,6 @@ plugins=(git docker docker-compose kubectl autojump zsh-autosuggestions)
 ```
 
 ---
-[上篇：设置](macos.md)
+[上篇：MacOS](macos.md)
 
 [下篇：openssl](openssl.md)
