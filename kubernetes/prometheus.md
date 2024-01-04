@@ -116,7 +116,7 @@
 
   - nginx.conf文件，注释掉以下行：
 
-    #include /etc/nginx/sites-enabled/*;
+    `#include /etc/nginx/sites-enabled/*;`
 
   - 执行以下命令：
 

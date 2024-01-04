@@ -5,4 +5,4 @@
 ---
 [上篇：Kubernetes 定制开发 01：K8s API 概念](k8s-dev-01-api-concept.md)
 
-[下篇：简单介绍 K8s](k8s-get-started.md)
+[下篇：Kubernetes 定制开发 90：定制调度器](k8s-dev-90-custom-scheduler.md)

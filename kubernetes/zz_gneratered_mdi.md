@@ -56,6 +56,8 @@
 
 [Kubernetes 定制开发 02：CRD](k8s-dev-02-crd.md)
 
+[Kubernetes 定制开发 90：定制调度器](k8s-dev-90-custom-scheduler.md)
+
 [简单介绍 K8s](k8s-get-started.md)
 
 [kubeadm 安装 Kubernetes (Docker)](kubeadm-install-k8s-docker.md)

@@ -226,7 +226,7 @@ reboot ubutnu, then using Kitematic.
 hello, Name!
 ```
 
-现使用真实 Name 替换掉 #Name#。
+现使用真实 Name 替换掉 `#Name#`。
 
 ```bash
 export Name=JayChou

@@ -152,6 +152,7 @@
 - [Kubernetes 0-1 K8s部署Zookeeper和Kafka](kubernetes/k8s-deploy-zookeeper-kafka.md)
 - [Kubernetes 定制开发 01：K8s API 概念](kubernetes/k8s-dev-01-api-concept.md)
 - [Kubernetes 定制开发 02：CRD](kubernetes/k8s-dev-02-crd.md)
+- [Kubernetes 定制开发 90：定制调度器](kubernetes/k8s-dev-90-custom-scheduler.md)
 - [简单介绍 K8s](kubernetes/k8s-get-started.md)
 - [kubeadm 安装 Kubernetes (Docker)](kubernetes/kubeadm-install-k8s-docker.md)
 - [kubeadm 安装 k8s (containerd)](kubernetes/kubeadm-install-k8s.md)
