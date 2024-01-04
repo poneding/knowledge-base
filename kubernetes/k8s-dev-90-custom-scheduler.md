@@ -49,7 +49,7 @@ func (r *PodReconciler) Reconcile(ctx context.Context, req ctrl.Request) (ctrl.R
     binding.Namespace = req.Namespace
     binding.Target = corev1.ObjectReference{
         Kind:       "Node",
-        APIVersion: "v1",
+        APIVersion: "v1", 
         Name:       targetNode,
     }
 
