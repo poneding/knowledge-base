@@ -131,6 +131,6 @@ goreleaser release --snapshot --skip-publish --clean
 也许这里可以帮助到你：[Cross-compiling Go with CGO - GoReleaser](https://goreleaser.com/cookbooks/cgo-and-crosscompiling/)
 
 ---
-[上篇：Golang](go.md)
+[上篇：gopkg-errors.md](gopkg-errors.md)
 
 [下篇：Mac M1 交叉编译 CGO](mac-appl-silicon-cross-compile-cgo.md)

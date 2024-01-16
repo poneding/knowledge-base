@@ -21,7 +21,7 @@
 
 创建如下 YAML 文件(app-v1.yaml)
 
-```
+```yaml
 apiVersion: v1
 kind: Service
 metadata:
@@ -90,7 +90,7 @@ kubectl apply -f app-v1.yaml
 
 创建如下 Ingress YAML文件(ingress-v1.yaml)
 
-```
+```yaml
 apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
@@ -130,7 +130,7 @@ Host: my-app-v1-68bfcbb7cf-w4rpg, Version: v1.0.0
 
 创建如下 YAML 文件(app-v2.yaml)
 
-```
+```yaml
 apiVersion: v1
 kind: Service
 metadata:
@@ -201,7 +201,7 @@ kubectl apply -f app-v2.yaml
 
 创建如下 Ingress YAML文件(ingress-v2-canary-weigth.yaml)
 
-```
+```yaml
 apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:
@@ -255,7 +255,7 @@ Host: my-app-v1-68bfcbb7cf-w4rpg, Version: v1.0.0
 
 创建如下 Ingress YAML文件(ingress-v2-canary-header.yaml)
 
-```
+```yaml
 apiVersion: extensions/v1beta1
 kind: Ingress
 metadata:

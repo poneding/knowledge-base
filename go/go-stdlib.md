@@ -53,6 +53,6 @@ func OsExecUsage() error {
 ```
 
 ---
-[上篇：Golang 发布类库 - 2](go-publish-package-02.md)
+[上篇：Go 程序 SOLID 设计原则](go-solid.md)
 
 [下篇：testing](go-testing.md)

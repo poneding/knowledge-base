@@ -6,10 +6,10 @@
 
 记录和分享使用二进制搭建 K8s 集群的详细过程，由于操作比较冗长，大概会分四篇写完：
 
-1. **[机器准备](./%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%90%AD%E5%BB%BA%20K8s%20-%201%20%E6%9C%BA%E5%99%A8%E5%87%86%E5%A4%87.md)**：
-2. **[部署 etcd 集群](./%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%90%AD%E5%BB%BA%20K8s%20-%202%20%E9%83%A8%E7%BD%B2%20etcd%20%E9%9B%86%E7%BE%A4.md)**：
-3. **[部署 Master](./%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%90%AD%E5%BB%BA%20K8s%20-%203%20%E9%83%A8%E7%BD%B2%20Master.md)**：
-4. **[部署 Node](./%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%90%AD%E5%BB%BA%20K8s%20-%204%20%E9%83%A8%E7%BD%B2%20Node.md)**：
+1. **[机器准备](./binary-build-k8s-01-prepare-nodes.md)**：
+2. **[部署 etcd 集群](./binary-build-k8s-02-deploy-etcd.md)**：
+3. **[部署 Master](./binary-build-k8s-03-deploy-master.md)**：
+4. **[部署 Node](./binary-build-k8s-04-deploy-worker.md)**：
 
 K8s 的 Node 上需要运行 kubelet 和 kube-proxy。本篇介绍在 Node 机器安装这两个组件，除此之外，安装通信需要的 cni 插件。
 

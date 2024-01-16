@@ -56,7 +56,7 @@
 
 [Kubernetes 定制开发 02：CRD](k8s-dev-02-crd.md)
 
-[Kubernetes 定制开发 90：定制调度器](k8s-dev-90-custom-scheduler.md)
+[Kubernetes 定制开发 50：扩展调度器](k8s-dev-50-extend-kube-scheduler.md)
 
 [简单介绍 K8s](k8s-get-started.md)
 

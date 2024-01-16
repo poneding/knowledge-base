@@ -107,6 +107,6 @@ Hello, Jay
 ```
 
 ---
-[上篇：Golang 不同平台架构编译](go-cross-complie.md)
+[上篇：Golang 实现双向认证](go-mtls.md)
 
 [下篇：Golang 发布类库 - 2](go-publish-package-02.md)

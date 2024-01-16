@@ -228,4 +228,4 @@ replace (
 ---
 [上篇：Golang 发布类库 - 1](go-publish-package-01.md)
 
-[下篇：Golang 标准库](go-stdlib.md)
+[下篇：Go 程序 SOLID 设计原则](go-solid.md)

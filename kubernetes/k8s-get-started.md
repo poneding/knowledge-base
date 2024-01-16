@@ -65,6 +65,6 @@ Master 节点扮演的角色相当于 K8s 的大脑，其重要性可想而知�
   使用 `kubectl` 命令工具对 K8s 下达操作指令，一般将这个工具安装在 Master 节点。
 
 ---
-[上篇：Kubernetes 定制开发 90：定制调度器](k8s-dev-90-custom-scheduler.md)
+[上篇：Kubernetes 定制开发 50：扩展调度器](k8s-dev-50-extend-kube-scheduler.md)
 
 [下篇：kubeadm 安装 Kubernetes (Docker)](kubeadm-install-k8s-docker.md)
