@@ -83,7 +83,7 @@ ENTRYPOINT node app.js
 
 ### Q&A
 
-#### 1. Dockerfile中ARG无法被CMD使用？
+#### 1. Dockerfile 中 ARG 无法被 CMD 使用？
 
 可能你需要修改你的CMD：
 
@@ -103,11 +103,6 @@ CMD ["/bin/sh", "-c", "echo ${USERNAME}"] # 输出 dp
 docker build . -t echo-user --build-arg USERNAME=dp
 docker run echo-user
 ```
-
----
-[上篇：Docker 常用命令](Docker%20常用命令.md)
-
-[下篇：Linux 容器](Linux%20容器.md)
 
 ---
 [上篇：Docker 可视化工具 Kitematic](docker-visiable-tool-kitematic.md)

@@ -2,6 +2,14 @@
 
 # Windows使用姿势
 
+## 0. 激活 windows11
+
+```powershell
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX  
+slmgr /skms kms.03k.org  
+slmgr /ato
+```
+
 ## 1. Windows Terminal SSH 连接超时自动断开
 
 使用 Windows Terminal SSH 连接 linux 服务器，每过一段时间后，就会自动断开。

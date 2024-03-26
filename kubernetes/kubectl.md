@@ -4,25 +4,7 @@
 
 ## 安装
 
-linux
-
-```bash
-# amd64
-curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/amd64/kubectl"
-
-# arm64
-curl -LO "https://dl.k8s.io/release/$(curl -L -s https://dl.k8s.io/release/stable.txt)/bin/linux/arm64/kubectl"
-
-mv ./kubectl /usr/local/bin/kubectl
-```
-
-macos
-
-```bash
-brew install kubectl
-```
-
-参考文档：<https://kubernetes.io/docs/tasks/tools/#kubectl>
+参考文档：[kubectl 安装文档](https://kubernetes.io/docs/tasks/tools/#kubectl)
 
 ## 常用命令
 

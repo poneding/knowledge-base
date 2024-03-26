@@ -4,7 +4,7 @@
 
 ## 简介
 
-kubebuilder 是一个构建 Operator（CRD + Controller）的框架。
+kubebuilder 是一个构建 Operator（CRD + Controller）的框架的工具，它可以帮助我们快速的构建一个 Operator 项目，并提供了一些常用的命令，例如：创建 API、创建 Controller、Webhook 等。
 
 ## 安装
 

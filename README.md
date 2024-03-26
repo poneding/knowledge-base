@@ -27,6 +27,11 @@
 - [准备CKA](cka/prepare-cka.md)
 - [考题](cka/tasks.md)
 
+## [computer](computer/zz_gneratered_mdi.md)
+
+- [网络通信](computer/networking.md)
+- [虚拟内存](computer/virtual-memory.md)
+
 ## [Dapr](dapr/zz_gneratered_mdi.md)
 
 - [Dapr 0-1](dapr/dapr.md)
@@ -85,9 +90,11 @@
 - [Gitlab 添加 K8s 集群](git/gitlab-intergrate-k8s.md)
 - [Gitlab 跨版本升级](git/gitlab-upgrade-cross-version.md)
 - [多 GitHub 账号管理](git/multi-github-account-management.md)
+- [搭建最简单的 git 仓库服务](git/simplest-git-server.md)
 
 ## [Golang](go/zz_gneratered_mdi.md)
 
+- [Untitled.md](go/Untitled.md)
 - [Golang 函数可选参数模式](go/function-optional-pattern.md)
 - [Golang 密钥对、数字签名和证书管理](go/go-cert-management.md)
 - [Golang 不同平台架构编译](go/go-cross-complie.md)
@@ -222,6 +229,7 @@
 
 - [云原生应用开发：Operator原理与实践](reading/云原生应用开发：Operator原理与实践.md)
 - [我的第一本算法书](reading/我的第一本算法书.md)
+- [深入理解计算机网络.md](reading/深入理解计算机网络.md)
 
 ## [Rust](rust/zz_gneratered_mdi.md)
 

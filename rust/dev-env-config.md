@@ -34,6 +34,40 @@ rustup update
 rustup self uninstall
 ```
 
+## 配置命令补全
+
+查看帮助：
+
+```bash
+rustup completions --help
+```
+
+以 Ubuntu 为例，创建目录：
+
+```bash
+mkdir ~/.zfunc
+```
+
+在 .zshrc 文件中添加内容：
+
+```bash
+fpath+=~/.zfunc
+autoload -Uz compinit && compinit
+```
+
+生成补全脚本：
+
+```bash
+rustup completions zsh > ~/.zfunc/_rustup
+rustup completions zsh cargo > ~/.zfunc/_cargo
+```
+
+注销重新登录以生效，或者直接运行以下命令：
+
+```bash
+exec zsh
+```
+
 ---
 [上篇：Rust cargo 管理工具](cargo-tools.md)
 

@@ -19,3 +19,5 @@
 [Gitlab 跨版本升级](gitlab-upgrade-cross-version.md)
 
 [多 GitHub 账号管理](multi-github-account-management.md)
+
+[搭建最简单的 git 仓库服务](simplest-git-server.md)

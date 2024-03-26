@@ -60,3 +60,5 @@ Host github-workspace
 
 ---
 [上篇：Gitlab 跨版本升级](gitlab-upgrade-cross-version.md)
+
+[下篇：搭建最简单的 git 仓库服务](simplest-git-server.md)
