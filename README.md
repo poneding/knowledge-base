@@ -120,7 +120,7 @@
 
 ## [gRPC](grpc/zz_gneratered_mdi.md)
 
-- [gRPC 实战](grpc/grpc.md)
+- [gRPC 实战](grpc/gRPC.md)
 
 ## [Istio](istio/zz_gneratered_mdi.md)
 
