@@ -6,4 +6,6 @@
 
 [Pinia 入门](pinia.md)
 
+[VitePress](vitepress.md)
+
 [认识Vue3](vue3.md)

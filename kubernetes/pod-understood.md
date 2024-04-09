@@ -163,6 +163,16 @@ Pod 重启策略，有三种：Always、OnFaliure、Never
 
 可以定义容器启动的最小字段和运行最大分配资源，对 Pod 的资源使用的控制。
 
+## Pod 日志
+
+kubelet 定义了 pod 的日志路径，宿主机目录：
+
+```
+/var/log/pods/<pod-namespace>_<pod-name>_<pod-uid>/<contianer name>/<restart count>.log
+```
+
+日志文件名为 0.log，1.log...，这里数字使用的是容器重启的次数。
+
 ---
 [上篇：使用 nfs 持久化存储](nfs-as-pvc.md)
 

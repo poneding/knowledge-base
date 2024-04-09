@@ -289,6 +289,61 @@ git tag | grep "v1.1.0.\d$" | xargs git tag -d
 git show-ref --tag | awk '/(.*)(\s+)(.*)$/ {print ":" $2}' | xargs git push origin
 ```
 
+## Git Remote
+
+### 查看远程信息
+
+```bash
+git remote -v
+
+git remote show
+```
+
+### 新增远程
+
+```bash
+git remote add origin git@github.com:poneding/demo.git
+```
+
+### 更新远程地址
+
+```bash
+git remote set-url origin git@github.com:poneding/demo.git
+```
+
+### 删除远程
+
+```bash
+git remote remove origin
+```
+### 多远程
+
+```bash
+git remote add origin git@github.com:poneding/demo.git
+git remote add origin2 git@gitlab.com:poneding/demo.git
+
+git push origin master
+git push origin2 master
+
+# 所有分支、tag 等
+# git push --all origin # 所有分支
+git push --mirror origin
+# git push --all origin2 # 所有分支
+git push --mirror origin2
+```
+
+## Git 信息
+
+### 提交哈希值
+
+```bash
+# 完整的提交哈希值
+git rev-parse HEAD
+
+# 简短的提交哈希值 (7 位)
+git rev-parse --short HEAD
+```
+
 ## 删除远程仓库提交历史
 
 ```bash

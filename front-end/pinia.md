@@ -167,4 +167,4 @@ export const useCounterStore = defineStore('counter', ()=>{
 ---
 [上篇：SEO](build-site-seo-config.md)
 
-[下篇：认识Vue3](vue3.md)
+[下篇：VitePress](vitepress.md)

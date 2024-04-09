@@ -1,13 +1,21 @@
-[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / Windows使用姿势
+[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / Windows 使用姿势
 
-# Windows使用姿势
+# Windows 使用姿势
 
-## 0. 激活 windows11
+## 0. 激活 windows
+
+以管理员身份运行命令行，输入以下三行命令：
 
 ```powershell
-slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX  
-slmgr /skms kms.03k.org  
+slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX
+# 等待弹窗出现，点击确定之后，再继续执行下一行命令
+
+slmgr /skms kms.loli.best
+# slmgr /skms kms.03k.org
+# 同样需要等待弹窗出现，点击确定之后，再继续执行
+
 slmgr /ato
+# 正常情况下应该会出现激活成功的弹窗
 ```
 
 ## 1. Windows Terminal SSH 连接超时自动断开
@@ -28,16 +36,16 @@ ServerAliveInterval 60
 
 ### 密钥文件进行SSH连接
 
- ```ini
+ ```
  Host aliyun
    HostName 11.11.11.11
    User root
    IdentityFile ~/.ssh/aliyun_key
  ```
-
+ 
 ### 用户密码进行SSH连接
 
-```ini
+```
 Host ubuntu
   HostName 192.168.11.11
   User dp
@@ -60,6 +68,14 @@ ssh-keygen -t rsa -C "remote" -f ubuntu
 
 ```powershell
 Remove-Item (Get-PSReadlineOption).HistorySavePath
+```
+
+## 4. 安装 windows11 虚拟机
+
+安装 windwos 虚拟机跳过网络的方法，按下 Shift+F10 或者是 Fn+Shift+F10 快捷键调出命令提示符窗口，执行命令：
+
+```powershell
+oobe\BypassNRO
 ```
 
 ---

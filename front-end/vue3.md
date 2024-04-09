@@ -412,4 +412,4 @@ git clone  http://git.itcast.cn/heimaqianduan/vue3-basic-project.git
 3. 案例项目有俩个分支，main主分支为开发分支，complete分支为完成版分支供开发完参考
 
 ---
-[上篇：Pinia 入门](pinia.md)
+[上篇：VitePress](vitepress.md)

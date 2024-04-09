@@ -10,4 +10,4 @@
 
 [Ubuntu](ubuntu.md)
 
-[Windows使用姿势](windows.md)
+[Windows 使用姿势](windows.md)

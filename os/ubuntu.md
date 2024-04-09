@@ -123,7 +123,24 @@ solaar
 
 如果没有发现 M720 鼠标，则重启 Ubuntu，重启之后再次打开 Solaar 之后，可以看到列表中出现 Solaar，点击 "Pair the device" 即可。
 
+## Ubuntu 启用中文输入法
+
+好像是 Ubuntu 23.10 后支持。
+
+1. 首先需要安装中文语言；
+2. 选择输入法，Chinese，双击打开
+
+## 虚拟机
+
+VMWare Fusion 开启宿主机复制粘贴功能，桌面版 Ubuntu 系统安装插件：
+
+```bash
+sudo apt install open-vm-tools open-vm-tools-desktop -y
+```
+
+安装完之后，重启虚拟机即可。
+
 ---
 [上篇：openssl](openssl.md)
 
-[下篇：Windows使用姿势](windows.md)
+[下篇：Windows 使用姿势](windows.md)

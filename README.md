@@ -73,10 +73,15 @@
 - [Linux 容器](docker/linux-container.md)
 - [非 root 账号获取 docker 权限](docker/non-root-account-get-docker-permission.md)
 
+## [ebpf](ebpf/zz_gneratered_mdi.md)
+
+- [eBPF](ebpf/ebpf.md)
+
 ## [前端技术](front-end/zz_gneratered_mdi.md)
 
 - [SEO](front-end/build-site-seo-config.md)
 - [Pinia 入门](front-end/pinia.md)
+- [VitePress](front-end/vitepress.md)
 - [认识Vue3](front-end/vue3.md)
 
 ## [Git](git/zz_gneratered_mdi.md)
@@ -120,7 +125,7 @@
 
 ## [gRPC](grpc/zz_gneratered_mdi.md)
 
-- [gRPC 实战](grpc/gRPC.md)
+- [gRPC 实战](grpc/grpc.md)
 
 ## [Istio](istio/zz_gneratered_mdi.md)
 
@@ -223,7 +228,7 @@
 - [ohmyzsh](os/ohmyzsh.md)
 - [openssl](os/openssl.md)
 - [Ubuntu](os/ubuntu.md)
-- [Windows使用姿势](os/windows.md)
+- [Windows 使用姿势](os/windows.md)
 
 ## [阅读笔记](reading/zz_gneratered_mdi.md)
 
