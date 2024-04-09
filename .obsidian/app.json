@@ -1,0 +1,11 @@
+{
+  "strictLineBreaks": true,
+  "foldHeading": false,
+  "foldIndent": false,
+  "showIndentGuide": false,
+  "newLinkFormat": "relative",
+  "showInlineTitle": false,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
+}

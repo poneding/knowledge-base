@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "theme": "system",
+  "monospaceFontFamily": "Monaco",
+  "interfaceFontFamily": "Monaco",
+  "baseFontSize": 16,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
+}

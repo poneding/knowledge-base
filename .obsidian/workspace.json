@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "ab99bfc57e3cfbd1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ef47cea3cc42518",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6cdc00e634855969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ebpf/ebpf.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08653a356f20ce36",
+    "type": "split",
+    "children": [
+      {
+        "id": "3651bc5f7e1cacb4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83678614187a266b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "618eac6516e76a57",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2eb613091ac86bbd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5
+  },
+  "right": {
+    "id": "a7de434d2a19fce2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca649fd18a25be74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "571dda5dd75b2935",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ebpf/ebpf.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2f7511dd3868c31c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ebpf/ebpf.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a701375505d591f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "def974884a1b16fb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ebpf/ebpf.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "terminal:Open terminal": false
+    }
+  },
+  "active": "6cdc00e634855969",
+  "lastOpenFiles": [
+    "algo/heap-sort.md",
+    "Untitled.canvas",
+    "ebpf/zz_gneratered_mdi.md",
+    "ebpf/ebpf.md",
+    "ebpf/eBPF.md",
+    "eBPF/ebpf.md",
+    "eBPF",
+    "ebpf",
+    "git/common-usage.md",
+    "kubernetes/k8s-deploy-efk.md",
+    "kubernetes/k8s-deploy-dashboard.md",
+    "kubernetes/k8s-deploy-coredns.md",
+    "未命名.canvas",
+    "os/ubuntu.md",
+    "os/openssl.md",
+    "os/windows.md",
+    "envconf",
+    "kubernetes/kubeadm-upgrade.md",
+    "front-end/vitepress.md",
+    "kubernetes/kubeadm-install-k8s.md",
+    "kubernetes/pod-understood.md",
+    "kubernetes/kubernetes.md",
+    "README.md",
+    "computer/zz_gneratered_mdi.md",
+    "git/simplest-git-server.md",
+    "rust/vscode-debugging.md",
+    "rust/dev-env-config.md",
+    "rust/rust.md",
+    "rust/cargo-tools.md",
+    "rust/wasm-programming.md",
+    "rust/zz_gneratered_mdi.md",
+    "computer",
+    "kubernetes/extending-k8s",
+    "kubernetes/kubeadm-install-k8s.html",
+    "kubernetes/kubeadm-install-k8s-docker.html",
+    "kubernetes/k8s-dev-90-custom-scheduler.html",
+    "kubernetes/k8s-dev-91-scheduler-extender.html"
+  ]
+}
