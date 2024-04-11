@@ -1,8 +1,8 @@
 {
   "accentColor": "",
   "theme": "system",
-  "monospaceFontFamily": "Monaco",
-  "interfaceFontFamily": "Monaco",
+  "monospaceFontFamily": "Monaco,Ubuntu Mono",
+  "interfaceFontFamily": "Monaco,Ubuntu",
   "baseFontSize": 16,
   "cssTheme": "",
   "enabledCssSnippets": [
