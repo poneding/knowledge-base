@@ -332,6 +332,16 @@ git push --mirror origin
 git push --mirror origin2
 ```
 
+注意，后续提交到远程时：
+
+```bash
+# 默认提交到 origin 远程
+git push
+
+# 提交到 origin2 远程
+git pull origin2 master
+git push origin2 master
+```
 ## Git 信息
 
 ### 提交哈希值

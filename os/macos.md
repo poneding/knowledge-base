@@ -101,5 +101,15 @@ cargo install cargo-cache
 cargo cache --autoclean
 ```
 
+## iTerm2
+
+解决 iTerm2 下使用 Solarized Dark 主题时，zsh-autosuggestions 显示问题：
+
+```bash
+vim .oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+```
+
+找到并配置：`ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'`
+
 ---
 [下篇：ohmyzsh](ohmyzsh.md)

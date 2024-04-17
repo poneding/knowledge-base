@@ -27,10 +27,10 @@
 - [准备CKA](cka/prepare-cka.md)
 - [考题](cka/tasks.md)
 
-## [computer](computer/zz_gneratered_mdi.md)
+## [computer](computer-science/zz_gneratered_mdi.md)
 
-- [网络通信](computer/networking.md)
-- [虚拟内存](computer/virtual-memory.md)
+- [网络通信](computer-science/networking.md)
+- [虚拟内存](computer-science/virtual-memory.md)
 
 ## [Dapr](dapr/zz_gneratered_mdi.md)
 

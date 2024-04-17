@@ -7,5 +7,6 @@
   "cssTheme": "",
   "enabledCssSnippets": [
     "extended-colorschemes"
-  ]
+  ],
+  "showViewHeader": true
 }
