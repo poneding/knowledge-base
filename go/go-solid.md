@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Go 程序 SOLID 设计原则
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Go 程序 SOLID 设计原则
 
 # Go 程序 SOLID 设计原则
 
@@ -289,6 +289,6 @@ func Save(w io.Writer, doc *Document) error
 因为如果 Go 想要成为公司长期投资的语言，Go 程序的可维护性，更容易变更，将是他们决策的关键因素。
 
 ---
-[上篇：Golang 发布类库 - 2](go-publish-package-02.md)
+[« Golang 发布类库 - 2](go-publish-package-02.md)
 
-[下篇：Golang 标准库](go-stdlib.md)
+[» Golang 标准库](go-stdlib.md)

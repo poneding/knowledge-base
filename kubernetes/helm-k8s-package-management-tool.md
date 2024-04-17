@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 Helm Kubernetes 的包管理工具
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 Helm Kubernetes 的包管理工具
 
 # Kubernetes 0-1 Helm Kubernetes 的包管理工具
 
@@ -313,6 +313,6 @@ REVISION: 1
 ![gzh](https://fs.poneding.com/images/gzh.png)
 
 ---
-[上篇：Gateway API 实践](gateway-api-practice.md)
+[« Gateway API 实践](gateway-api-practice.md)
 
-[下篇：Kubernetes 0-1 实现Pod自动扩缩HPA](hpa-usage.md)
+[» Kubernetes 0-1 实现Pod自动扩缩HPA](hpa-usage.md)

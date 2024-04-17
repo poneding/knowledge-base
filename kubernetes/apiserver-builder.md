@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / apiserver-builder
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / apiserver-builder
 
 # apiserver-builder
 
@@ -33,6 +33,6 @@ apiserver-boot create group version resource --group demo --version v1alpha1 --k
 - <https://github.com/kubernetes-sigs/apiserver-builder-alpha/blob/master/README.md>
 
 ---
-[上篇：反亲和性提高服务可用性](anti-affinity-improves-service-availability.md)
+[« 反亲和性提高服务可用性](anti-affinity-improves-service-availability.md)
 
-[下篇：apiserver](apiserver.md)
+[» apiserver](apiserver.md)

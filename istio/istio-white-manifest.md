@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 应用层级设置访问白名单
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / 应用层级设置访问白名单
 
 # 应用层级设置访问白名单
 
@@ -157,6 +157,6 @@ spec:
 ```
 
 ---
-[上篇：使用 Istio 实现服务超时](istio-timeout.md)
+[« 使用 Istio 实现服务超时](istio-timeout.md)
 
-[下篇：实现 Https 协议的转发](tls-transform.md)
+[» 实现 Https 协议的转发](tls-transform.md)

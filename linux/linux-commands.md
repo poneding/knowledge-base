@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / Linux 命令
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / Linux 命令
 
 # Linux 命令
 
@@ -663,6 +663,6 @@ echo $JAIL_ROOT
 ```
 
 ---
-[上篇：Linux-history 输出附带日期](history-with-date.md)
+[« Linux-history 输出附带日期](history-with-date.md)
 
-[下篇：Linux常用命令](linux-common-commands.md)
+[» Linux常用命令](linux-common-commands.md)

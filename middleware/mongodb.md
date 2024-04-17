@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [中间件](zz_gneratered_mdi.md) / MongoDB
+[我的知识库](../README.md) / [中间件](zz_generated_mdi.md) / MongoDB
 
 # MongoDB
 
@@ -190,6 +190,6 @@ db.changeUserPassword("username","new_pwd")
 ```
 
 ---
-[上篇：Elasticsearch](elasticsearch.md)
+[« Elasticsearch](elasticsearch.md)
 
-[下篇：MySQL](mysql.md)
+[» MySQL](mysql.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 使用 Istio 实现服务超时
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / 使用 Istio 实现服务超时
 
 # 使用 Istio 实现服务超时
 
@@ -41,6 +41,6 @@ spec:
 > timeout：请求超过设定的超时时间，响应返回 504 请求超时。
 
 ---
-[上篇：Istio 0-1 使用Istio实现Cors](istio-cors.md)
+[« Istio 0-1 使用Istio实现Cors](istio-cors.md)
 
-[下篇：应用层级设置访问白名单](istio-white-manifest.md)
+[» 应用层级设置访问白名单](istio-white-manifest.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / apiserver
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / apiserver
 
 # apiserver
 
@@ -12,6 +12,6 @@ k get apiservices.apiregistration.k8s.io| wc -l
 ```
 
 ---
-[上篇：apiserver-builder](apiserver-builder.md)
+[« apiserver-builder](apiserver-builder.md)
 
-[下篇：二进制搭建 K8s - 1 机器准备](binary-build-k8s-01-prepare-nodes.md)
+[» 二进制搭建 K8s - 1 机器准备](binary-build-k8s-01-prepare-nodes.md)

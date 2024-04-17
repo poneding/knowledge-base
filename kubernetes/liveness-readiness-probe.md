@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读
 
 # Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读
 
@@ -256,6 +256,6 @@ kubectl apply -f helloweb-livenessProbe.yaml
 ![gzh](https://fs.poneding.com/images/gzh.png)
 
 ---
-[上篇：Kustomize](kustomize.md)
+[« Kustomize](kustomize.md)
 
-[下篇：local 存储卷实践](local-storageclass.md)
+[» local 存储卷实践](local-storageclass.md)

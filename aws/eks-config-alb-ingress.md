@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / EKS配置 ALB Ingress
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / EKS配置 ALB Ingress
 
 # EKS配置 ALB Ingress
 
@@ -263,6 +263,6 @@ annotations:
 - Pod内容器使用Secrets Manager，需要给Node的Role添加相应的权限；
 
 ---
-[上篇：创建 EKS 集群](create-eks-cluster.md)
+[« 创建 EKS 集群](create-eks-cluster.md)
 
-[下篇：EKS小细节汇总](eks-details.md)
+[» EKS小细节汇总](eks-details.md)

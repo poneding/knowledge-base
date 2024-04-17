@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 K8s部署EFK
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 K8s部署EFK
 
 # Kubernetes 0-1 K8s部署EFK
 
@@ -353,6 +353,6 @@ kubectl logs fluentd-8hmbd -n kube-system
 -
 
 ---
-[上篇：Kubernetes 0-1 K8s部署Dashboard](k8s-deploy-dashboard.md)
+[« Kubernetes 0-1 K8s部署Dashboard](k8s-deploy-dashboard.md)
 
-[下篇：可能需要运行多次以下命令，确保k8s资源都创建](k8s-deploy-prometheus-grafana.md)
+[» 可能需要运行多次以下命令，确保k8s资源都创建](k8s-deploy-prometheus-grafana.md)

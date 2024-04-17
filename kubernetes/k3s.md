@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / K3s
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / K3s
 
 # K3s
 
@@ -67,6 +67,6 @@ curl -sfL https://rancher-mirror.oss-cn-beijing.aliyuncs.com/k3s/k3s-install.sh 
 - k3s 默认使用的 local-path 存储不支持 RWX 模式，所以还是得搭建存储服务 nfs 或者 longhorn；
 
 ---
-[上篇：通过 Ingress 进行灰度发布](ingress-gray-deploy.md)
+[« 通过 Ingress 进行灰度发布](ingress-gray-deploy.md)
 
-[下篇：Kubernetes 0-1 K8s部署coredns](k8s-deploy-coredns.md)
+[» Kubernetes 0-1 K8s部署coredns](k8s-deploy-coredns.md)

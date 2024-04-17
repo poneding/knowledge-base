@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker 常用命令
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / Docker 常用命令
 
 # Docker 常用命令
 
@@ -105,6 +105,6 @@ kubectl delete po <pod-name> -n <namespace> --force --grace-period=0
 grace-period 表示过渡存活期，默认 30s，在删除 Pod 之前允许 Pod 慢慢终止其上的容器进程，从而优雅退出，0 表示立即终止 Pod。
 
 ---
-[上篇：docker buildx](docker-buildx.md)
+[« docker buildx](docker-buildx.md)
 
-[下篇：Docker Compose 实践](docker-compose-practice.md)
+[» Docker Compose 实践](docker-compose-practice.md)

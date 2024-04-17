@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [算法与数据结构](zz_gneratered_mdi.md) / 快速排序
+[我的知识库](../README.md) / [算法与数据结构](zz_generated_mdi.md) / 快速排序
 
 # 快速排序
 
@@ -76,4 +76,4 @@ func quickSortHelper(nums []int, r, l int) int {
 ```
 
 ---
-[上篇：堆排序](heap-sort.md)
+[« 堆排序](heap-sort.md)

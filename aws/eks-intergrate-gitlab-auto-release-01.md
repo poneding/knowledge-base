@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / EKS实践 集成Gitlab自动发布（一）
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / EKS实践 集成Gitlab自动发布（一）
 
 # EKS实践 集成Gitlab自动发布（一）
 
@@ -167,6 +167,6 @@ Helm是K8s的类似包管理工具，Helm的各类Charts可以帮助我们快速
 可以使用Helm在K8s集群中安装Gitlab Runner，使用Gitlab Runner实现Gitlab 自动CI/CD，前面我们的步骤就是使用Helm安装GItlab Runner。
 
 ---
-[上篇：EKS小细节汇总](eks-details.md)
+[« EKS小细节汇总](eks-details.md)
 
-[下篇：EKS实践 集成Gitlab自动发布（二）](eks-intergrate-gitlab-auto-release-02.md)
+[» EKS实践 集成Gitlab自动发布（二）](eks-intergrate-gitlab-auto-release-02.md)

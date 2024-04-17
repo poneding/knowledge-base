@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / shell 命令间隔符
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / shell 命令间隔符
 
 # shell 命令间隔符
 
@@ -64,6 +64,6 @@ echo "Hello World" >> hello.txt
 ```
 
 ---
-[上篇：Linux-安全登录](linux-secure-login.md)
+[« Linux-安全登录](linux-secure-login.md)
 
-[下篇：shell 基础](shell.md)
+[» shell 基础](shell.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / Linux常用命令
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / Linux常用命令
 
 # Linux常用命令
 
@@ -356,6 +356,6 @@ linux-headers-xxxxxx
 linux-headers-xxxxxx-generic  总之中间有“xxxxxx”那段的旧内核都能删，注意一般选内核号较小的删除。
 
 ---
-[上篇：Linux 命令](linux-commands.md)
+[« Linux 命令](linux-commands.md)
 
-[下篇：Linux 启用 crontab 日志](linux-enable-crontab-log.md)
+[» Linux 启用 crontab 日志](linux-enable-crontab-log.md)

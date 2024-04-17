@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / 使用 SSH Tunnel 连接中间件
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / 使用 SSH Tunnel 连接中间件
 
 # 使用 SSH Tunnel 连接中间件
 
@@ -91,6 +91,6 @@
 ![image-20200417140544099](https://fs.poneding.com/images/image-20200417140544099.png)
 
 ---
-[上篇：shell 基础](shell.md)
+[« shell 基础](shell.md)
 
-[下篇：tee 保存 stderr 到文件](tee-keep-stderr.md)
+[» tee 保存 stderr 到文件](tee-keep-stderr.md)

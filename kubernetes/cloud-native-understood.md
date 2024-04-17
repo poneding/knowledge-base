@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 尝试理解云原生
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 尝试理解云原生
 
 # Kubernetes 0-1 尝试理解云原生
 
@@ -17,6 +17,6 @@
 云原生本身不能称为是一种架构，它首先是一种基础设施，运行在其上的应用称作云原生应用，只有符合云原生设计哲学的应用架构才叫云原生应用架构。
 
 ---
-[上篇：二进制搭建 K8s - 4 部署 Node](binary-build-k8s-04-deploy-worker.md)
+[« 二进制搭建 K8s - 4 部署 Node](binary-build-k8s-04-deploy-worker.md)
 
-[下篇：了解 ConfigMap](configmap-understood.md)
+[» 了解 ConfigMap](configmap-understood.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [前端技术](zz_gneratered_mdi.md) / SEO
+[我的知识库](../README.md) / [前端技术](zz_generated_mdi.md) / SEO
 
 # SEO
 
@@ -7,4 +7,4 @@
 - [Bing](https://www.bing.com/webmasters/)
 
 ---
-[下篇：Pinia 入门](pinia.md)
+[» Pinia 入门](pinia.md)

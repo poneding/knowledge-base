@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / HTTP 客户端调用 Kubernetes APIServer
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / HTTP 客户端调用 Kubernetes APIServer
 
 # HTTP 客户端调用 Kubernetes APIServer
 
@@ -407,6 +407,6 @@ deployment.apps/nginx created
 - [从 Pod 中访问 Kubernetes API | Kuberentes](https://kubernetes.io/zh-cn/docs/tasks/run-application/access-api-from-pod/)
 
 ---
-[上篇：Kubernetes 0-1 实现Pod自动扩缩HPA](hpa-usage.md)
+[« Kubernetes 0-1 实现Pod自动扩缩HPA](hpa-usage.md)
 
-[下篇：Informer](informer.md)
+[» Informer](informer.md)

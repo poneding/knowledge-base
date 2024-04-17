@@ -1,11 +1,11 @@
 # 我的知识库
 
-## [算法与数据结构](algo/zz_gneratered_mdi.md)
+## [算法与数据结构](algo/zz_generated_mdi.md)
 
 - [堆排序](algo/heap-sort.md)
 - [快速排序](algo/quick-sort.md)
 
-## [AWS](aws/zz_gneratered_mdi.md)
+## [AWS](aws/zz_generated_mdi.md)
 
 - [搭建EKS集群](aws/build-eks-cluster.md)
 - [Cluster AutoScaler](aws/cluster-autoscaler.md)
@@ -21,33 +21,34 @@
 - [K8s 部署 Postgres](aws/k8s-deploy-postgres.md)
 - [Terraform 重新管理资源](aws/terraform-remanage-resource.md)
 
-## [CKA](cka/zz_gneratered_mdi.md)
+## [CKA](cka/zz_generated_mdi.md)
 
 - [001](cka/001.md)
 - [准备CKA](cka/prepare-cka.md)
 - [考题](cka/tasks.md)
 
-## [computer](computer-science/zz_gneratered_mdi.md)
+## [计算机科学](computer-science/zz_generated_mdi.md)
 
+- [互联网如何运作？](computer-science/internet.md)
 - [网络通信](computer-science/networking.md)
 - [虚拟内存](computer-science/virtual-memory.md)
 
-## [Dapr](dapr/zz_gneratered_mdi.md)
+## [Dapr](dapr/zz_generated_mdi.md)
 
 - [Dapr 0-1](dapr/dapr.md)
 
-## [设计模式](design-pattern/zz_gneratered_mdi.md)
+## [设计模式](design-pattern/zz_generated_mdi.md)
 
 - [CI/CD](design-pattern/cicd.md)
 
-## [DevOps](devops/zz_gneratered_mdi.md)
+## [DevOps](devops/zz_generated_mdi.md)
 
-- [Grafana](devops/grafana/zz_gneratered_mdi.md)
+- [Grafana](devops/grafana/zz_generated_mdi.md)
   - [使用grafana监控5xx服务](devops/grafana/grafana-monite-service-with-5xx.md)
   - [使用Grafana监控service](devops/grafana/grafana-monite-service.md)
   - [Grafana](devops/grafana/grafana.md)
 
-- [Jeager](devops/jeager/zz_gneratered_mdi.md)
+- [Jeager](devops/jeager/zz_generated_mdi.md)
   - [Jaeger](devops/jeager/jeager.md)
 
 - [Agile](devops/agile.md)
@@ -57,7 +58,7 @@
 - [商业画布](devops/commercial-canvas.md)
 - [nginx](devops/nginx.md)
 
-## [Docker](docker/zz_gneratered_mdi.md)
+## [Docker](docker/zz_generated_mdi.md)
 
 - [container-diff 工具的使用](docker/container-diff.md)
 - [Docker in Docker](docker/dind.md)
@@ -73,18 +74,18 @@
 - [Linux 容器](docker/linux-container.md)
 - [非 root 账号获取 docker 权限](docker/non-root-account-get-docker-permission.md)
 
-## [ebpf](ebpf/zz_gneratered_mdi.md)
+## [eBPF](ebpf/zz_generated_mdi.md)
 
 - [eBPF](ebpf/ebpf.md)
 
-## [前端技术](front-end/zz_gneratered_mdi.md)
+## [前端技术](front-end/zz_generated_mdi.md)
 
 - [SEO](front-end/build-site-seo-config.md)
 - [Pinia 入门](front-end/pinia.md)
 - [VitePress](front-end/vitepress.md)
 - [认识Vue3](front-end/vue3.md)
 
-## [Git](git/zz_gneratered_mdi.md)
+## [Git](git/zz_generated_mdi.md)
 
 - [Git 常用](git/common-usage.md)
 - [使用 git-secret 保护仓库敏感数据](git/git-secret.md)
@@ -97,7 +98,7 @@
 - [多 GitHub 账号管理](git/multi-github-account-management.md)
 - [搭建最简单的 git 仓库服务](git/simplest-git-server.md)
 
-## [Golang](go/zz_gneratered_mdi.md)
+## [Go](go/zz_generated_mdi.md)
 
 - [Untitled.md](go/Untitled.md)
 - [Golang 函数可选参数模式](go/function-optional-pattern.md)
@@ -119,15 +120,15 @@
 - [pprof](go/pprof.md)
 - [使用 Go 生成 OpenSSH 兼容的 RSA 密钥对](go/ssh-keygen-with-go.md)
 
-## [GraphQL](graphql/zz_gneratered_mdi.md)
+## [GraphQL](graphql/zz_generated_mdi.md)
 
 - [Graphql](graphql/graphql.md)
 
-## [gRPC](grpc/zz_gneratered_mdi.md)
+## [gRPC](grpc/zz_generated_mdi.md)
 
 - [gRPC 实战](grpc/gRPC.md)
 
-## [Istio](istio/zz_gneratered_mdi.md)
+## [Istio](istio/zz_generated_mdi.md)
 
 - [Istio](istio/Istio.md)
 - [使用 aws-acm 管理 tls 密钥和证书](istio/aws-acm-tls-management.md)
@@ -140,9 +141,9 @@
 - [实现 Https 协议的转发](istio/tls-transform.md)
 - [Istio 0-1 流量管理方案](istio/traffic-management.md)
 
-## [Kubernetes](kubernetes/zz_gneratered_mdi.md)
+## [Kubernetes](kubernetes/zz_generated_mdi.md)
 
-- [KubeVirt](kubernetes/kubevirt/zz_gneratered_mdi.md)
+- [KubeVirt](kubernetes/kubevirt/zz_generated_mdi.md)
   - [Kubevirt 实践](kubernetes/kubevirt/kubevirt-practice.md)
 
 - [反亲和性提高服务可用性](kubernetes/anti-affinity-improves-service-availability.md)
@@ -200,7 +201,7 @@
 - [了解 Volume](kubernetes/volume-understood.md)
 - [VPA](kubernetes/vpa.md)
 
-## [Linux](linux/zz_gneratered_mdi.md)
+## [Linux](linux/zz_generated_mdi.md)
 
 - [certbot-auto 生成证书](linux/certbot-auto-gen-cert.md)
 - [Linux-history 输出附带日期](linux/history-with-date.md)
@@ -214,15 +215,15 @@
 - [tee 保存 stderr 到文件](linux/tee-keep-stderr.md)
 - [vim 使用](linux/vim-common-commands.md)
 
-## [中间件](middle-ware/zz_gneratered_mdi.md)
+## [中间件](middleware/zz_generated_mdi.md)
 
-- [Elasticsearch](middle-ware/elasticsearch.md)
-- [MongoDB](middle-ware/mongodb.md)
-- [MySQL](middle-ware/mysql.md)
-- [Postgres](middle-ware/postgres.md)
-- [Redis](middle-ware/redis.md)
+- [Elasticsearch](middleware/elasticsearch.md)
+- [MongoDB](middleware/mongodb.md)
+- [MySQL](middleware/mysql.md)
+- [Postgres](middleware/postgres.md)
+- [Redis](middleware/redis.md)
 
-## [操作系统](os/zz_gneratered_mdi.md)
+## [操作系统](os/zz_generated_mdi.md)
 
 - [MacOS](os/macos.md)
 - [ohmyzsh](os/ohmyzsh.md)
@@ -230,13 +231,13 @@
 - [Ubuntu](os/ubuntu.md)
 - [Windows 使用姿势](os/windows.md)
 
-## [阅读笔记](reading/zz_gneratered_mdi.md)
+## [阅读笔记](reading/zz_generated_mdi.md)
 
 - [云原生应用开发：Operator原理与实践](reading/云原生应用开发：Operator原理与实践.md)
 - [我的第一本算法书](reading/我的第一本算法书.md)
 - [深入理解计算机网络.md](reading/深入理解计算机网络.md)
 
-## [Rust](rust/zz_gneratered_mdi.md)
+## [Rust](rust/zz_generated_mdi.md)
 
 - [Rust cargo 管理工具](rust/cargo-tools.md)
 - [Rust 开发环境配置](rust/dev-env-config.md)

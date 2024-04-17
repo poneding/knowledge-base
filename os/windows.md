@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / Windows 使用姿势
+[我的知识库](../README.md) / [操作系统](zz_generated_mdi.md) / Windows 使用姿势
 
 # Windows 使用姿势
 
@@ -79,4 +79,4 @@ oobe\BypassNRO
 ```
 
 ---
-[上篇：Ubuntu](ubuntu.md)
+[« Ubuntu](ubuntu.md)

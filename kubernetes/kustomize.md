@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kustomize
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kustomize
 
 # Kustomize
 
@@ -823,6 +823,6 @@ deployment.apps "dev-my-nginx" deleted
 |                       |                                                              |                                                              |
 
 ---
-[上篇：Kuberentes](kubernetes.md)
+[« Kuberentes](kubernetes.md)
 
-[下篇：Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读](liveness-readiness-probe.md)
+[» Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读](liveness-readiness-probe.md)

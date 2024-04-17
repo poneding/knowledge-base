@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / gopkg-errors.md
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / gopkg-errors.md
 
 ---
 title: Go 包 - errors
@@ -86,6 +86,6 @@ Before sending a PR, please discuss your change by raising an issue.
 BSD-2-Clause
 
 ---
-[上篇：Golang](go.md)
+[« Golang](go.md)
 
-[下篇：Goreleaser](goreleaser.md)
+[» Goreleaser](goreleaser.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / local 存储卷实践
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / local 存储卷实践
 
 # local 存储卷实践
 
@@ -121,6 +121,6 @@ spec:
 基于 local 存储卷实现一个控制器动态管理 PV。
 
 ---
-[上篇：Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读](liveness-readiness-probe.md)
+[« Kubernetes 0-1 Pod中的livenessProbe和readinessProbe解读](liveness-readiness-probe.md)
 
-[下篇：Kubernetes 0-1 K8s自建LoadBalancer](metallb.md)
+[» Kubernetes 0-1 K8s自建LoadBalancer](metallb.md)

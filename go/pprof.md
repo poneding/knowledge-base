@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / pprof
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / pprof
 
 # pprof
 
@@ -102,6 +102,6 @@ go tool pprof -http=:6060 http://127.0.0.1:8080/debug/pprof/goroutine
 ![image-20220419181358767](https://fs.poneding.com/images/image-20220419181358767.png)
 
 ---
-[上篇：Mac M1 交叉编译 CGO](mac-appl-silicon-cross-compile-cgo.md)
+[« Mac M1 交叉编译 CGO](mac-appl-silicon-cross-compile-cgo.md)
 
-[下篇：使用 Go 生成 OpenSSH 兼容的 RSA 密钥对](ssh-keygen-with-go.md)
+[» 使用 Go 生成 OpenSSH 兼容的 RSA 密钥对](ssh-keygen-with-go.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Dockerfile
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / Dockerfile
 
 # Dockerfile
 
@@ -105,6 +105,6 @@ docker run echo-user
 ```
 
 ---
-[上篇：Docker 可视化工具 Kitematic](docker-visiable-tool-kitematic.md)
+[« Docker 可视化工具 Kitematic](docker-visiable-tool-kitematic.md)
 
-[下篇：Linux 容器](linux-container.md)
+[» Linux 容器](linux-container.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 发布类库 - 1
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Golang 发布类库 - 1
 
 # Golang 发布类库 - 1
 
@@ -107,6 +107,6 @@ Hello, Jay
 ```
 
 ---
-[上篇：Golang 实现双向认证](go-mtls.md)
+[« Golang 实现双向认证](go-mtls.md)
 
-[下篇：Golang 发布类库 - 2](go-publish-package-02.md)
+[» Golang 发布类库 - 2](go-publish-package-02.md)

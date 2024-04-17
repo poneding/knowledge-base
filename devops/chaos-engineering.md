@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）
+[我的知识库](../README.md) / [DevOps](zz_generated_mdi.md) / 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）
 
 # 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）
 
@@ -61,6 +61,6 @@
 欢迎加入[混沌工程社区](https://groups.google.com/forum/#!forum/chaos-community)的 Google 讨论组和我们一起讨论这些原则的应用。
 
 ---
-[上篇：蓝绿部署、滚动部署和灰度部署](bule-green-rollback-gray.md)
+[« 蓝绿部署、滚动部署和灰度部署](bule-green-rollback-gray.md)
 
-[下篇：商业画布](commercial-canvas.md)
+[» 商业画布](commercial-canvas.md)

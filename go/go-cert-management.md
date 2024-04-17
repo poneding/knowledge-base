@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 密钥对、数字签名和证书管理
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Golang 密钥对、数字签名和证书管理
 
 # Golang 密钥对、数字签名和证书管理
 
@@ -77,6 +77,6 @@ func Verify(data []byte, sig []byte, publicKey *rsa.PublicKey) error {
 ```
 
 ---
-[上篇：Golang 函数可选参数模式](function-optional-pattern.md)
+[« Golang 函数可选参数模式](function-optional-pattern.md)
 
-[下篇：Golang 不同平台架构编译](go-cross-complie.md)
+[» Golang 不同平台架构编译](go-cross-complie.md)

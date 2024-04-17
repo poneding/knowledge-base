@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / kubeadm 安装 Kubernetes (Docker)
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / kubeadm 安装 Kubernetes (Docker)
 
 # kubeadm 安装 Kubernetes (Docker)
 
@@ -257,6 +257,6 @@ kubectl expose deployment nginx --name=nginx --port=80 --target-port=80 --type=N
 - [Container Runtimes](https://kubernetes.io/docs/setup/production-environment/container-runtimes/)
 
 ---
-[上篇：简单介绍 K8s](k8s-get-started.md)
+[« 简单介绍 K8s](k8s-get-started.md)
 
-[下篇：kubeadm 安装 k8s (containerd)](kubeadm-install-k8s.md)
+[» kubeadm 安装 k8s (containerd)](kubeadm-install-k8s.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / shell 基础
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / shell 基础
 
 # shell 基础
 
@@ -610,6 +610,6 @@ fi
 ```
 
 ---
-[上篇：shell 命令间隔符](shell-command-interval-character.md)
+[« shell 命令间隔符](shell-command-interval-character.md)
 
-[下篇：使用 SSH Tunnel 连接中间件](ssh-tunnel-connect-middleware.md)
+[» 使用 SSH Tunnel 连接中间件](ssh-tunnel-connect-middleware.md)

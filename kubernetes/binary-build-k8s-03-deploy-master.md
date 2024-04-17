@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 二进制搭建 K8s - 3 部署 Master
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 二进制搭建 K8s - 3 部署 Master
 
 # 二进制搭建 K8s - 3 部署 Master
 
@@ -553,6 +553,6 @@ kubectl apply -f apiserver-to-kubelet-rbac.yaml
 第三段落**部署 Master**顺利结束。
 
 ---
-[上篇：二进制搭建 K8s - 2 部署 etcd 集群](binary-build-k8s-02-deploy-etcd.md)
+[« 二进制搭建 K8s - 2 部署 etcd 集群](binary-build-k8s-02-deploy-etcd.md)
 
-[下篇：二进制搭建 K8s - 4 部署 Node](binary-build-k8s-04-deploy-worker.md)
+[» 二进制搭建 K8s - 4 部署 Node](binary-build-k8s-04-deploy-worker.md)

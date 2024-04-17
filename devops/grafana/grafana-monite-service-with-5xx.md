@@ -1,4 +1,4 @@
-[我的知识库](../../README.md) / [DevOps](../zz_gneratered_mdi.md) / [Grafana](zz_gneratered_mdi.md) / 使用grafana监控5xx服务
+[我的知识库](../../README.md) / [DevOps](../zz_generated_mdi.md) / [Grafana](zz_generated_mdi.md) / 使用grafana监控5xx服务
 
 # 使用grafana监控5xx服务
 
@@ -91,4 +91,4 @@ SELECT "service_code" FROM "service_status" WHERE ("health_code" = 500 AND "doma
 如果在定制过程中存在问题，也可以联系DevOps组。
 
 ---
-[下篇：使用Grafana监控service](grafana-monite-service.md)
+[» 使用Grafana监控service](grafana-monite-service.md)

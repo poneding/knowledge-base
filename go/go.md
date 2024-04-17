@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Golang
 
 # Golang
 
@@ -937,6 +937,6 @@ func QueryErrorLogs(esClient *elastic.Client) error {
 ```
 
 ---
-[上篇：testing](go-testing.md)
+[« testing](go-testing.md)
 
-[下篇：gopkg-errors.md](gopkg-errors.md)
+[» gopkg-errors.md](gopkg-errors.md)

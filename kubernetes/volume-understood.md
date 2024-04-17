@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 了解 Volume
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 了解 Volume
 
 # 了解 Volume
 
@@ -173,6 +173,6 @@ spec:
 存储敏感信息的配置，供 Volume 使用，后续可能会单独介绍它的使用。
 
 ---
-[上篇：Velero + Minio 备份与恢复](velero-minio-backup-restore-volume.md)
+[« Velero + Minio 备份与恢复](velero-minio-backup-restore-volume.md)
 
-[下篇：VPA](vpa.md)
+[» VPA](vpa.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 标准库
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Golang 标准库
 
 # Golang 标准库
 
@@ -53,6 +53,6 @@ func OsExecUsage() error {
 ```
 
 ---
-[上篇：Go 程序 SOLID 设计原则](go-solid.md)
+[« Go 程序 SOLID 设计原则](go-solid.md)
 
-[下篇：testing](go-testing.md)
+[» testing](go-testing.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / K8s 部署 Postgres
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / K8s 部署 Postgres
 
 # K8s 部署 Postgres
 
@@ -149,6 +149,6 @@ kubectl get svc -n postgres
 ![image-20200316200310686](https://fs.poneding.com/images/image-20200316200310686.png)
 
 ---
-[上篇：K8s 部署 konga](k8s-deploy-konga.md)
+[« K8s 部署 konga](k8s-deploy-konga.md)
 
-[下篇：Terraform 重新管理资源](terraform-remanage-resource.md)
+[» Terraform 重新管理资源](terraform-remanage-resource.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 中资源名称规范
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 中资源名称规范
 
 # Kubernetes 中资源名称规范
 
@@ -73,6 +73,6 @@ func main() {
 ```
 
 ---
-[上篇：Kubernetes Dashboard](kubernetes-dashboard.md)
+[« Kubernetes Dashboard](kubernetes-dashboard.md)
 
-[下篇：Kuberentes](kubernetes.md)
+[» Kuberentes](kubernetes.md)

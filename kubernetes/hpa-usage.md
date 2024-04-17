@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 实现Pod自动扩缩HPA
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 实现Pod自动扩缩HPA
 
 # Kubernetes 0-1 实现Pod自动扩缩HPA
 
@@ -24,6 +24,6 @@ HPA（Horizontal Pod Autoscaler，Pod水平自动扩缩），根据Pod的资源�
 以部署redis为例，现使用redis
 
 ---
-[上篇：Kubernetes 0-1 Helm Kubernetes 的包管理工具](helm-k8s-package-management-tool.md)
+[« Kubernetes 0-1 Helm Kubernetes 的包管理工具](helm-k8s-package-management-tool.md)
 
-[下篇：HTTP 客户端调用 Kubernetes APIServer](http-call-k8s-apiserver.md)
+[» HTTP 客户端调用 Kubernetes APIServer](http-call-k8s-apiserver.md)

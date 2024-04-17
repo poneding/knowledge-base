@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 编程
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 编程
 
 # Kubernetes 编程
 
@@ -303,6 +303,6 @@ controller-gen
 ```
 
 ---
-[上篇：Kubernetes 0-1 了解 Pod](pod-understood.md)
+[« Kubernetes 0-1 了解 Pod](pod-understood.md)
 
-[下篇：Prometheus-监控Kong完整操作](prometheus-collect-kong-metrics.md)
+[» Prometheus-监控Kong完整操作](prometheus-collect-kong-metrics.md)

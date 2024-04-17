@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / openssl
+[我的知识库](../README.md) / [操作系统](zz_generated_mdi.md) / openssl
 
 # openssl
 
@@ -87,6 +87,6 @@ openssl x509 -in server.crt -noout -text
 ```
 
 ---
-[上篇：ohmyzsh](ohmyzsh.md)
+[« ohmyzsh](ohmyzsh.md)
 
-[下篇：Ubuntu](ubuntu.md)
+[» Ubuntu](ubuntu.md)

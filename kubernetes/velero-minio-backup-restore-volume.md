@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Velero + Minio 备份与恢复
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Velero + Minio 备份与恢复
 
 # Velero + Minio 备份与恢复
 
@@ -88,6 +88,6 @@ velero restore create --from-backup mysql-backup
 ```
 
 ---
-[上篇：Terraform](terraform.md)
+[« Terraform](terraform.md)
 
-[下篇：了解 Volume](volume-understood.md)
+[» 了解 Volume](volume-understood.md)

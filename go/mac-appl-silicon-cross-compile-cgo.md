@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Mac M1 交叉编译 CGO
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Mac M1 交叉编译 CGO
 
 # Mac M1 交叉编译 CGO
 
@@ -58,6 +58,6 @@ CGO_ENABLED=1 GOOS=linux GOARCH=arm64 CC=x86_64-linux-musl-gcc CGO_LDFLAGS="-sta
 - <https://zhuanlan.zhihu.com/p/338891206>
 
 ---
-[上篇：Goreleaser](goreleaser.md)
+[« Goreleaser](goreleaser.md)
 
-[下篇：pprof](pprof.md)
+[» pprof](pprof.md)

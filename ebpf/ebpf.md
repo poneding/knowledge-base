@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [ebpf](zz_gneratered_mdi.md) / eBPF
+[我的知识库](../README.md) / [eBPF](zz_generated_mdi.md) / eBPF
 
 # eBPF
 

@@ -2,13 +2,13 @@
 
 # DevOps
 
-## [Grafana](grafana/zz_gneratered_mdi.md)
+## [Grafana](grafana/zz_generated_mdi.md)
 
 - [使用grafana监控5xx服务](grafana/grafana-monite-service-with-5xx.md)
 - [使用Grafana监控service](grafana/grafana-monite-service.md)
 - [Grafana](grafana/grafana.md)
 
-## [Jeager](jeager/zz_gneratered_mdi.md)
+## [Jeager](jeager/zz_generated_mdi.md)
 
 - [Jaeger](jeager/jeager.md)
 

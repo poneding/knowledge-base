@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 应用平台实现应用金丝雀发布
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / 应用平台实现应用金丝雀发布
 
 # 应用平台实现应用金丝雀发布
 
@@ -272,6 +272,6 @@ spec:
 ```
 
 ---
-[上篇：授权策略 Authorization Policy](istio-auth-policy.md)
+[« 授权策略 Authorization Policy](istio-auth-policy.md)
 
-[下篇：Istio 0-1 使用Istio实现Cors](istio-cors.md)
+[» Istio 0-1 使用Istio实现Cors](istio-cors.md)

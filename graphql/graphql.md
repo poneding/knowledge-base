@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [GraphQL](zz_gneratered_mdi.md) / Graphql
+[我的知识库](../README.md) / [GraphQL](zz_generated_mdi.md) / Graphql
 
 # Graphql
 

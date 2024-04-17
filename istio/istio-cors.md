@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / Istio 0-1 使用Istio实现Cors
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / Istio 0-1 使用Istio实现Cors
 
 # Istio 0-1 使用Istio实现Cors
 
@@ -45,6 +45,6 @@ spec:
 > 配置 allowOrigins 以及 allowMethods。
 
 ---
-[上篇：应用平台实现应用金丝雀发布](istio-canary-deploy.md)
+[« 应用平台实现应用金丝雀发布](istio-canary-deploy.md)
 
-[下篇：使用 Istio 实现服务超时](istio-timeout.md)
+[» 使用 Istio 实现服务超时](istio-timeout.md)

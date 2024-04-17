@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / Github Action 使用最佳实践
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / Github Action 使用最佳实践
 
 # Github Action 使用最佳实践
 
@@ -123,6 +123,6 @@ jobs:
 > 镜像 tag 版本号来自于 git 中创建的 tag，所以如果要发布稳定版本，需要打一个命名为 `vx.x.x-stable` 的 tag，然后 Release 时，选择该 tag 即可。
 
 ---
-[上篇：使用 git-secret 保护仓库敏感数据](git-secret.md)
+[« 使用 git-secret 保护仓库敏感数据](git-secret.md)
 
-[下篇：使用 GitHub 托管 helm-chart 仓库](github-host-helm-chart.md)
+[» 使用 GitHub 托管 helm-chart 仓库](github-host-helm-chart.md)

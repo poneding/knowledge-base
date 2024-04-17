@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 列表转树
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Golang 列表转树
 
 # Golang 列表转树
 
@@ -146,6 +146,6 @@ func (m *Menu) setSubMenus(menu Menu) bool {
 Golang for 遍历使用 `for _, item := range slice` 时，`item` 是一份遍历元素的复制，而使用 `for i := range slice` 时，`slice[i]` 则是遍历元素本身，使用时需要注意切片扩容带来的地址变化问题。
 
 ---
-[上篇：go:linkname 指令](go-linkname.md)
+[« go:linkname 指令](go-linkname.md)
 
-[下篇：Golang 实现双向认证](go-mtls.md)
+[» Golang 实现双向认证](go-mtls.md)

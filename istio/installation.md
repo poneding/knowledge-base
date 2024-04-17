@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 安装 Istio
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / 安装 Istio
 
 # 安装 Istio
 
@@ -33,6 +33,6 @@ cp bin/istio /usr/local/bin
 ```
 
 ---
-[上篇：使用 aws-acm 管理 tls 密钥和证书](aws-acm-tls-management.md)
+[« 使用 aws-acm 管理 tls 密钥和证书](aws-acm-tls-management.md)
 
-[下篇：授权策略 Authorization Policy](istio-auth-policy.md)
+[» 授权策略 Authorization Policy](istio-auth-policy.md)

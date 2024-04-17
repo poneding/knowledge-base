@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / Git 常用
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / Git 常用
 
 # Git 常用
 
@@ -383,4 +383,4 @@ git config --global http."sslVerify" false
 ```
 
 ---
-[下篇：使用 git-secret 保护仓库敏感数据](git-secret.md)
+[» 使用 git-secret 保护仓库敏感数据](git-secret.md)

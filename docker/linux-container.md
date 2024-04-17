@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Linux 容器
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / Linux 容器
 
 # Linux 容器
 
@@ -25,6 +25,6 @@
 - cgroup
 
 ---
-[上篇：Dockerfile](dockerfile.md)
+[« Dockerfile](dockerfile.md)
 
-[下篇：非 root 账号获取 docker 权限](non-root-account-get-docker-permission.md)
+[» 非 root 账号获取 docker 权限](non-root-account-get-docker-permission.md)

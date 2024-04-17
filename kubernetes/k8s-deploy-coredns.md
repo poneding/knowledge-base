@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 K8s部署coredns
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 K8s部署coredns
 
 # Kubernetes 0-1 K8s部署coredns
 
@@ -252,6 +252,6 @@ PING www.baidu.com (14.215.177.39): 56 data bytes
 ![image](https://fs.poneding.com/images/white.jpg)
 
 ---
-[上篇：K3s](k3s.md)
+[« K3s](k3s.md)
 
-[下篇：Kubernetes 0-1 K8s部署Dashboard](k8s-deploy-dashboard.md)
+[» Kubernetes 0-1 K8s部署Dashboard](k8s-deploy-dashboard.md)

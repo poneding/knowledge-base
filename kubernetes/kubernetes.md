@@ -1,10 +1,10 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kuberentes
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kuberentes
 
 # Kuberentes
 
 
 
 ---
-[上篇：Kubernetes 中资源名称规范](kubernetes-naming-constraints.md)
+[« Kubernetes 中资源名称规范](kubernetes-naming-constraints.md)
 
-[下篇：Kustomize](kustomize.md)
+[» Kustomize](kustomize.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / Gitlab & EKS
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / Gitlab & EKS
 
 # Gitlab & EKS
 
@@ -47,6 +47,6 @@ Setting => CI/CD => Variables，添加变量：
 ```
 
 ---
-[上篇：EKS-使用EFS](eks-use-efs.md)
+[« EKS-使用EFS](eks-use-efs.md)
 
-[下篇：K8s 部署 Kong 服务](k8s-deploy-kong.md)
+[» K8s 部署 Kong 服务](k8s-deploy-kong.md)

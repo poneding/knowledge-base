@@ -1,4 +1,4 @@
-[我的知识库](../../README.md) / [Kubernetes](../zz_gneratered_mdi.md) / [KubeVirt](zz_gneratered_mdi.md) / Kubevirt 实践
+[我的知识库](../../README.md) / [Kubernetes](../zz_generated_mdi.md) / [KubeVirt](zz_generated_mdi.md) / Kubevirt 实践
 
 # Kubevirt 实践
 

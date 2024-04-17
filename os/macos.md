@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / MacOS
+[我的知识库](../README.md) / [操作系统](zz_generated_mdi.md) / MacOS
 
 # MacOS
 
@@ -112,4 +112,4 @@ vim .oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 找到并配置：`ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'`
 
 ---
-[下篇：ohmyzsh](ohmyzsh.md)
+[» ohmyzsh](ohmyzsh.md)

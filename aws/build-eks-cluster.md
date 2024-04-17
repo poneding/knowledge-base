@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / 搭建EKS集群
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / 搭建EKS集群
 
 # 搭建EKS集群
 
@@ -102,4 +102,4 @@ EKS最佳实践：
 <https://aws.github.io/aws-eks-best-practices/security/docs/iam/>
 
 ---
-[下篇：Cluster AutoScaler](cluster-autoscaler.md)
+[» Cluster AutoScaler](cluster-autoscaler.md)

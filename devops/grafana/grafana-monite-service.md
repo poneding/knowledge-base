@@ -1,4 +1,4 @@
-[我的知识库](../../README.md) / [DevOps](../zz_gneratered_mdi.md) / [Grafana](zz_gneratered_mdi.md) / 使用Grafana监控service
+[我的知识库](../../README.md) / [DevOps](../zz_generated_mdi.md) / [Grafana](zz_generated_mdi.md) / 使用Grafana监控service
 
 # 使用Grafana监控service
 
@@ -46,6 +46,6 @@ SELECT mean("service_code") FROM "service_status" WHERE ("domain_name" = 'servic
 根据自身需求修改query即可。
 
 ---
-[上篇：使用grafana监控5xx服务](grafana-monite-service-with-5xx.md)
+[« 使用grafana监控5xx服务](grafana-monite-service-with-5xx.md)
 
-[下篇：Grafana](grafana.md)
+[» Grafana](grafana.md)

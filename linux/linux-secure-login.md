@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / Linux-安全登录
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / Linux-安全登录
 
 # Linux-安全登录
 
@@ -84,6 +84,6 @@ ssh-keygen -t rsa -C poneding@gmail.com -f ~/.ssh/id_rsa_poneding
 以上命令会默认在 ~/.ssh 目录下生成 id_rsa_poneding 私钥文件和 id_rsa_poneding.pub 文件，将 id_rsa_poneding.pub 文件内容追加到服务器 ~/.ssh/authorized_keys 文件中即可。
 
 ---
-[上篇：Linux 启用 crontab 日志](linux-enable-crontab-log.md)
+[« Linux 启用 crontab 日志](linux-enable-crontab-log.md)
 
-[下篇：shell 命令间隔符](shell-command-interval-character.md)
+[» shell 命令间隔符](shell-command-interval-character.md)

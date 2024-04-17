@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / 使用 git-secret 保护仓库敏感数据
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / 使用 git-secret 保护仓库敏感数据
 
 # 使用 git-secret 保护仓库敏感数据
 
@@ -143,6 +143,6 @@ git secret reveal # 第一次使用该命令需要输入信任用户的密码
 * **git secret removeperson：**移除信任用户。
 
 ---
-[上篇：Git 常用](common-usage.md)
+[« Git 常用](common-usage.md)
 
-[下篇：Github Action 使用最佳实践](github-action-best-practice.md)
+[» Github Action 使用最佳实践](github-action-best-practice.md)

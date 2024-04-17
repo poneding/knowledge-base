@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / 搭建最简单的 git 仓库服务
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / 搭建最简单的 git 仓库服务
 
 # 搭建最简单的 git 仓库服务
 
@@ -61,4 +61,4 @@ git clone root@192.168.10.24:git-server-demo.git
 
 剩余就是常规 git 步骤了。
 ---
-[上篇：多 GitHub 账号管理](multi-github-account-management.md)
+[« 多 GitHub 账号管理](multi-github-account-management.md)

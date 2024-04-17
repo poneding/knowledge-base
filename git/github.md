@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / GitHub
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / GitHub
 
 # GitHub
 
@@ -21,6 +21,6 @@ basename $(curl -s -w %{redirect_url} https://github.com/ketches/registry-proxy/
 ```
 
 ---
-[上篇：GitHub 托管 helm-chart 仓库](github-hosting-helm-reop.md)
+[« GitHub 托管 helm-chart 仓库](github-hosting-helm-reop.md)
 
-[下篇：Gitlab 添加 K8s 集群](gitlab-intergrate-k8s.md)
+[» Gitlab 添加 K8s 集群](gitlab-intergrate-k8s.md)

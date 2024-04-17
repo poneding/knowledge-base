@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / Gitlab 添加 K8s 集群
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / Gitlab 添加 K8s 集群
 
 # Gitlab 添加 K8s 集群
 
@@ -85,6 +85,6 @@ kubectl -n kube-system describe secret $(kubectl -n kube-system get secret | gre
    Settings => Network => Outbound requests，将选项 Allow requests to the local network from web hooks and services 勾选即可。
 
 ---
-[上篇：GitHub](github.md)
+[« GitHub](github.md)
 
-[下篇：Gitlab 跨版本升级](gitlab-upgrade-cross-version.md)
+[» Gitlab 跨版本升级](gitlab-upgrade-cross-version.md)

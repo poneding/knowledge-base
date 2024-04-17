@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [中间件](zz_gneratered_mdi.md) / Postgres
+[我的知识库](../README.md) / [中间件](zz_generated_mdi.md) / Postgres
 
 # Postgres
 
@@ -15,6 +15,6 @@ alter user postgres with password 'admin123';
 ```
 
 ---
-[上篇：MySQL](mysql.md)
+[« MySQL](mysql.md)
 
-[下篇：Redis](redis.md)
+[» Redis](redis.md)

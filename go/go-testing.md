@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / testing
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / testing
 
 # testing
 
@@ -29,6 +29,6 @@ go list -f={{.XTestGoFiles}} .
 > 包外测试：测试文件的包名称与被测包不一致，一般在被测包名称后面添加 `_test` 后缀，只能访问被测包内公开成员，相当于黑盒测试。
 
 ---
-[上篇：Golang 标准库](go-stdlib.md)
+[« Golang 标准库](go-stdlib.md)
 
-[下篇：Golang](go.md)
+[» Golang](go.md)

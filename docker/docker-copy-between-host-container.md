@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker 主机容器互拷贝文件
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / Docker 主机容器互拷贝文件
 
 # Docker 主机容器互拷贝文件
 
@@ -47,6 +47,6 @@ sudo docker cp ~/temp/hello.txt b3e608e28f21:/app/
 ```
 
 ---
-[上篇：Docker 容器中安装 PFX 证书](docker-container-install-pfx-cert.md)
+[« Docker 容器中安装 PFX 证书](docker-container-install-pfx-cert.md)
 
-[下篇：使用 docker manifest 命令构建多架构镜像](docker-manifest-build-cross-arch-image.md)
+[» 使用 docker manifest 命令构建多架构镜像](docker-manifest-build-cross-arch-image.md)

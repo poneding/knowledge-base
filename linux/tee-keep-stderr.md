@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / tee 保存 stderr 到文件
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / tee 保存 stderr 到文件
 
 # tee 保存 stderr 到文件
 
@@ -53,6 +53,6 @@ sh 1.sh 2&>1 | tee 1.log
 > 2>&1：将标准错误重定向至标准输出
 
 ---
-[上篇：使用 SSH Tunnel 连接中间件](ssh-tunnel-connect-middleware.md)
+[« 使用 SSH Tunnel 连接中间件](ssh-tunnel-connect-middleware.md)
 
-[下篇：vim 使用](vim-common-commands.md)
+[» vim 使用](vim-common-commands.md)

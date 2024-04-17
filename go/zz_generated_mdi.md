@@ -1,6 +1,6 @@
-[我的知识库](../README.md) / Golang
+[我的知识库](../README.md) / Go
 
-# Golang
+# Go
 
 [Untitled.md](Untitled.md)
 

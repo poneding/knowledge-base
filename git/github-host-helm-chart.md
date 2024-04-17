@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / 使用 GitHub 托管 helm-chart 仓库
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / 使用 GitHub 托管 helm-chart 仓库
 
 # 使用 GitHub 托管 helm-chart 仓库
 
@@ -123,6 +123,6 @@ jobs:
 - [chart-releaser-action](https://github.com/helm/chart-releaser-action)
 
 ---
-[上篇：Github Action 使用最佳实践](github-action-best-practice.md)
+[« Github Action 使用最佳实践](github-action-best-practice.md)
 
-[下篇：GitHub 托管 helm-chart 仓库](github-hosting-helm-reop.md)
+[» GitHub 托管 helm-chart 仓库](github-hosting-helm-reop.md)

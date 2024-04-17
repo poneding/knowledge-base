@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / Agile
+[我的知识库](../README.md) / [DevOps](zz_generated_mdi.md) / Agile
 
 # Agile
 
@@ -15,4 +15,4 @@
 3. 做一盘上一盘， 如果前面的菜咸了，可以反馈给饭店，后面的菜做淡点；对比十盘菜一起上，顾客就无法从中间反馈意见了，做一个用户插不上意见的产品，严重的后果可能是用户已经不感兴趣了。
 
 ---
-[下篇：Ansible](ansible.md)
+[» Ansible](ansible.md)

@@ -2,7 +2,7 @@
 
 # Kubernetes
 
-## [KubeVirt](kubevirt/zz_gneratered_mdi.md)
+## [KubeVirt](kubevirt/zz_generated_mdi.md)
 
 - [Kubevirt 实践](kubevirt/kubevirt-practice.md)
 

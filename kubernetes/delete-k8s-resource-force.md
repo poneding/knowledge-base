@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 强制删除 K8s 资源
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 强制删除 K8s 资源
 
 # 强制删除 K8s 资源
 
@@ -136,6 +136,6 @@ $ curl -k -H "Content-Type:application/json" -X PUT --data-binary @kcs.json http
 这时候顽固的的命名空间已经清除掉了。
 
 ---
-[上篇：定期删除 ElasticSearch 日志索引](delete-es-log-index-scheduler.md)
+[« 定期删除 ElasticSearch 日志索引](delete-es-log-index-scheduler.md)
 
-[下篇：Gateway API 实践](gateway-api-practice.md)
+[» Gateway API 实践](gateway-api-practice.md)

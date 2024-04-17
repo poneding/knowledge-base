@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / Terraform 重新管理资源
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / Terraform 重新管理资源
 
 # Terraform 重新管理资源
 
@@ -20,4 +20,4 @@ resource "aws_subnet" "eks-private-subnet-1" {
 ```
 
 ---
-[上篇：K8s 部署 Postgres](k8s-deploy-postgres.md)
+[« K8s 部署 Postgres](k8s-deploy-postgres.md)

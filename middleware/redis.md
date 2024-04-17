@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [中间件](zz_gneratered_mdi.md) / Redis
+[我的知识库](../README.md) / [中间件](zz_generated_mdi.md) / Redis
 
 # Redis
 
@@ -30,4 +30,4 @@ tcp-keepalive 300   # 防止出现远程主机强迫关闭了一个现有的连�
 ```
 
 ---
-[上篇：Postgres](postgres.md)
+[« Postgres](postgres.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [gRPC](zz_gneratered_mdi.md) / gRPC 实战
+[我的知识库](../README.md) / [gRPC](zz_generated_mdi.md) / gRPC 实战
 
 # gRPC 实战
 

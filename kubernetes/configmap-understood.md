@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 了解 ConfigMap
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 了解 ConfigMap
 
 # 了解 ConfigMap
 
@@ -403,6 +403,6 @@ kubectl apply -f mockapi-pod.yaml
 > items 的 key 用于指定 ConfigMap 的 key，path 则可以定义为程序中的文件名。
 
 ---
-[上篇：Kubernetes 0-1 尝试理解云原生](cloud-native-understood.md)
+[« Kubernetes 0-1 尝试理解云原生](cloud-native-understood.md)
 
-[下篇：定期删除 ElasticSearch 日志索引](delete-es-log-index-scheduler.md)
+[» 定期删除 ElasticSearch 日志索引](delete-es-log-index-scheduler.md)

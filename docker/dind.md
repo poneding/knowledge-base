@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker in Docker
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / Docker in Docker
 
 # Docker in Docker
 
@@ -133,6 +133,6 @@ kubectl exec -it docker-in-docker -c docker /bin/sh
 前面提到了，由于第一种方式挂载主机 `/var/run/docker.sock`，在容器视角依然能获取到宿主机的容器，也能运行或删除容器，存在一定的安全隐患，更推荐使用第二种方式，Over!
 
 ---
-[上篇：container-diff 工具的使用](container-diff.md)
+[« container-diff 工具的使用](container-diff.md)
 
-[下篇：docker buildx](docker-buildx.md)
+[» docker buildx](docker-buildx.md)

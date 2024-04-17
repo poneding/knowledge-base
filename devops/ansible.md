@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / Ansible
+[我的知识库](../README.md) / [DevOps](zz_generated_mdi.md) / Ansible
 
 # Ansible
 
@@ -619,6 +619,6 @@ webserver1.com ansible_python_interpreter=/usr/bin/python2.4
 [Ansible Docs]( https://docs.ansible.com/ansible/latest/index.html )
 
 ---
-[上篇：Agile](agile.md)
+[« Agile](agile.md)
 
-[下篇：蓝绿部署、滚动部署和灰度部署](bule-green-rollback-gray.md)
+[» 蓝绿部署、滚动部署和灰度部署](bule-green-rollback-gray.md)

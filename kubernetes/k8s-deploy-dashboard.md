@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 K8s部署Dashboard
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 K8s部署Dashboard
 
 # Kubernetes 0-1 K8s部署Dashboard
 
@@ -127,6 +127,6 @@ token:      eyJhbGciOiJSUzI1NiIsImtpZCI6IjYtQW51Z2xPMi1WTmpEZEtIX3BBYXd1YWpGLVU2
 Kubernetes-Dashboard部署完成。
 
 ---
-[上篇：Kubernetes 0-1 K8s部署coredns](k8s-deploy-coredns.md)
+[« Kubernetes 0-1 K8s部署coredns](k8s-deploy-coredns.md)
 
-[下篇：Kubernetes 0-1 K8s部署EFK](k8s-deploy-efk.md)
+[» Kubernetes 0-1 K8s部署EFK](k8s-deploy-efk.md)

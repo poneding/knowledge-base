@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / Ubuntu
+[我的知识库](../README.md) / [操作系统](zz_generated_mdi.md) / Ubuntu
 
 # Ubuntu
 
@@ -142,6 +142,6 @@ sudo apt install open-vm-tools open-vm-tools-desktop -y
 安装完之后，重启虚拟机即可。
 
 ---
-[上篇：openssl](openssl.md)
+[« openssl](openssl.md)
 
-[下篇：Windows 使用姿势](windows.md)
+[» Windows 使用姿势](windows.md)

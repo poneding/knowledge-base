@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / ohmyzsh
+[我的知识库](../README.md) / [操作系统](zz_generated_mdi.md) / ohmyzsh
 
 # ohmyzsh
 
@@ -70,6 +70,6 @@ GLOBALIAS_FILTER_VALUES=(ls grep)
 ```
 
 ---
-[上篇：MacOS](macos.md)
+[« MacOS](macos.md)
 
-[下篇：openssl](openssl.md)
+[» openssl](openssl.md)

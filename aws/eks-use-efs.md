@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / EKS-使用EFS
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / EKS-使用EFS
 
 # EKS-使用EFS
 
@@ -29,6 +29,6 @@ aws efs create-mount-target \
 ```
 
 ---
-[上篇：EKS实践 集成Gitlab自动发布（二）](eks-intergrate-gitlab-auto-release-02.md)
+[« EKS实践 集成Gitlab自动发布（二）](eks-intergrate-gitlab-auto-release-02.md)
 
-[下篇：Gitlab & EKS](gitlab-eks.md)
+[» Gitlab & EKS](gitlab-eks.md)

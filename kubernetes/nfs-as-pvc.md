@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 使用 nfs 持久化存储
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 使用 nfs 持久化存储
 
 # 使用 nfs 持久化存储
 
@@ -209,6 +209,6 @@ spec:
 ```
 
 ---
-[上篇：Kubernetes 0-1 K8s自建LoadBalancer](metallb.md)
+[« Kubernetes 0-1 K8s自建LoadBalancer](metallb.md)
 
-[下篇：Kubernetes 0-1 了解 Pod](pod-understood.md)
+[» Kubernetes 0-1 了解 Pod](pod-understood.md)

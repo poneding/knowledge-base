@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / kubectl
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / kubectl
 
 # kubectl
 
@@ -42,6 +42,6 @@ source <(kubectl completion bash)
 ```
 
 ---
-[上篇：kubebuilder 实战](kubebuilder-inaction.md)
+[« kubebuilder 实战](kubebuilder-inaction.md)
 
-[下篇：Kubernetes 0-1 Kubernetes最佳实践](kubernetes-best-practice.md)
+[» Kubernetes 0-1 Kubernetes最佳实践](kubernetes-best-practice.md)

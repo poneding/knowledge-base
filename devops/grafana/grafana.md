@@ -1,4 +1,4 @@
-[我的知识库](../../README.md) / [DevOps](../zz_gneratered_mdi.md) / [Grafana](zz_gneratered_mdi.md) / Grafana
+[我的知识库](../../README.md) / [DevOps](../zz_generated_mdi.md) / [Grafana](zz_generated_mdi.md) / Grafana
 
 # Grafana
 
@@ -39,4 +39,4 @@
 此节可以参考:<https://medium.com/@eng.mohamed.m.saeed/monitoring-jenkins-with-grafana-and-prometheus-a7e037cbb376>
 
 ---
-[上篇：使用Grafana监控service](grafana-monite-service.md)
+[« 使用Grafana监控service](grafana-monite-service.md)

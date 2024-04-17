@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / 多 GitHub 账号管理
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / 多 GitHub 账号管理
 
 # 多 GitHub 账号管理
 
@@ -59,6 +59,6 @@ Host github-workspace
 > `~/.ssh/id_rsa_dingpeng24001` 是工作账号 github ssh key
 
 ---
-[上篇：Gitlab 跨版本升级](gitlab-upgrade-cross-version.md)
+[« Gitlab 跨版本升级](gitlab-upgrade-cross-version.md)
 
-[下篇：搭建最简单的 git 仓库服务](simplest-git-server.md)
+[» 搭建最简单的 git 仓库服务](simplest-git-server.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / Istio
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / Istio
 
 # Istio
 
@@ -399,4 +399,4 @@ spec:
 ```
 
 ---
-[下篇：使用 aws-acm 管理 tls 密钥和证书](aws-acm-tls-management.md)
+[» 使用 aws-acm 管理 tls 密钥和证书](aws-acm-tls-management.md)

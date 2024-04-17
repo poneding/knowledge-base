@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / kubebuilder 实战
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / kubebuilder 实战
 
 # kubebuilder 实战
 
@@ -98,6 +98,6 @@ make undeploy
 ```
 
 ---
-[上篇：Kubeadm 升级 K8s](kubeadm-upgrade.md)
+[« Kubeadm 升级 K8s](kubeadm-upgrade.md)
 
-[下篇：kubectl](kubectl.md)
+[» kubectl](kubectl.md)

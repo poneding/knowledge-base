@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / container-diff 工具的使用
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / container-diff 工具的使用
 
 # container-diff 工具的使用
 
@@ -89,4 +89,4 @@ container-diff diff nginx:v1 nginx:v2 --type=file --filename=/etc/
 更多命令参数可以通过 `-h` 解锁。
 
 ---
-[下篇：Docker in Docker](dind.md)
+[» Docker in Docker](dind.md)

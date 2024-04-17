@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / vim 使用
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / vim 使用
 
 # vim 使用
 
@@ -499,4 +499,4 @@ vim file1 file2     " 同时打开两个文件
 ```
 
 ---
-[上篇：tee 保存 stderr 到文件](tee-keep-stderr.md)
+[« tee 保存 stderr 到文件](tee-keep-stderr.md)
