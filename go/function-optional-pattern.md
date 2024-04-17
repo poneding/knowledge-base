@@ -81,6 +81,4 @@ func TestNewService(t *testing.T) {
 ![202312210911571.png](https://images.poneding.com/2023/12/202312210911571.png)
 
 ---
-[« Untitled.md](Untitled.md)
-
 [» Golang 密钥对、数字签名和证书管理](go-cert-management.md)

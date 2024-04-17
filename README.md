@@ -100,7 +100,6 @@
 
 ## [Go](go/zz_generated_mdi.md)
 
-- [Untitled.md](go/Untitled.md)
 - [Golang 函数可选参数模式](go/function-optional-pattern.md)
 - [Golang 密钥对、数字签名和证书管理](go/go-cert-management.md)
 - [Golang 不同平台架构编译](go/go-cross-complie.md)
