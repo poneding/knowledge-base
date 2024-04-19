@@ -8,5 +8,6 @@
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "showViewHeader": true
+  "showViewHeader": true,
+  "translucency": true
 }
