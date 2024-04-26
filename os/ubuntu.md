@@ -43,6 +43,14 @@ sudo ntpdate cn.pool.ntp.org
 sudo vim /etc/fonts/conf.avail/64-language-selector-prefer.conf
 ```
 
+注意：在 Ubuntu 23.10 或更新版本的系统上修改文件：
+
+```bash
+sudo vim /etc/fonts/conf.d/64-language-selector-cjk-prefer.conf
+```
+
+```
+
 将 `JP` 和 `KR` 所在行往下调整即可，调整成如下所示：
 
 ```xml
@@ -139,6 +147,32 @@ sudo apt install open-vm-tools open-vm-tools-desktop -y
 ```
 
 安装完之后，重启虚拟机即可。
+
+## 升级
+
+### 22.04 -> 23.04
+
+```bash
+sudo apt update
+sudo apt upgrade -y
+
+sudo apt install update-manager-core -y
+sudo vim /etc/update-manager/release-upgrades
+# modify Prompt=lts to Prompt=normal
+
+sudo sed -i 's/jammy/lunar/g' /etc/apt/sources.list
+sudo apt update
+sudo apt upgrade -y
+sudo apt dist-upgrade -y
+```
+
+### 23.04 -> 23.10
+
+```bash
+sudo apt update
+sudo apt upgrade -y
+sudo do-release-upgrade
+```
 
 ---
 [上篇：openssl](openssl.md)
