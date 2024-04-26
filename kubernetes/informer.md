@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Informer
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Informer
 
 # Informer
 
@@ -100,6 +100,6 @@ type PodInformer interface {
 每实例化一个Informer对象，都需要维护一个对应的Reflector。当同一对象Informer实例被实例化多次时，运行过多的ListAndWatch，这其中包括的
 
 ---
-[上篇：HTTP 客户端调用 Kubernetes APIServer](http-call-k8s-apiserver.md)
+[« HTTP 客户端调用 Kubernetes APIServer](http-call-k8s-apiserver.md)
 
-[下篇：通过 Ingress 进行灰度发布](ingress-gray-deploy.md)
+[» 通过 Ingress 进行灰度发布](ingress-gray-deploy.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 定期删除 ElasticSearch 日志索引
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 定期删除 ElasticSearch 日志索引
 
 # 定期删除 ElasticSearch 日志索引
 
@@ -123,6 +123,6 @@ PUT /_cluster/settings
 ![image-20201105115131020](https://fs.poneding.com/images/image-20201105115131020.png)
 
 ---
-[上篇：了解 ConfigMap](configmap-understood.md)
+[« 了解 ConfigMap](configmap-understood.md)
 
-[下篇：强制删除 K8s 资源](delete-k8s-resource-force.md)
+[» 强制删除 K8s 资源](delete-k8s-resource-force.md)

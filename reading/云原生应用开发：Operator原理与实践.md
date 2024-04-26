@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [阅读笔记](zz_gneratered_mdi.md) / 云原生应用开发：Operator原理与实践
+[我的知识库](../README.md) / [阅读笔记](zz_generated_mdi.md) / 云原生应用开发：Operator原理与实践
 
 # 云原生应用开发：Operator原理与实践
 
@@ -164,4 +164,4 @@ package main
 发现客户端，发现apiserver支持的资源组，资源版本和资源信息（GVR），使用`kubectl api-versions`可以获取支持的资源；
 
 ---
-[下篇：我的第一本算法书](我的第一本算法书.md)
+[» 我的第一本算法书](我的第一本算法书.md)

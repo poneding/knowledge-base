@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 定制开发 01：K8s API 概念
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 定制开发 01：K8s API 概念
 
 # Kubernetes 定制开发 01：K8s API 概念
 
@@ -188,6 +188,6 @@ API 的 Schema 会
 - [实现一个极简 K8s apiserver](https://www.zeng.dev/post/2023-k8s-apiserver-from-scratch/)
 
 ---
-[上篇：Kubernetes 0-1 K8s部署Zookeeper和Kafka](k8s-deploy-zookeeper-kafka.md)
+[« Kubernetes 0-1 K8s部署Zookeeper和Kafka](k8s-deploy-zookeeper-kafka.md)
 
-[下篇：Kubernetes 定制开发 02：CRD](k8s-dev-02-crd.md)
+[» Kubernetes 定制开发 02：CRD](k8s-dev-02-crd.md)

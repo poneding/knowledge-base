@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 K8s部署Zookeeper和Kafka
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 K8s部署Zookeeper和Kafka
 
 # Kubernetes 0-1 K8s部署Zookeeper和Kafka
 
@@ -267,6 +267,6 @@ wget https://github.com/strimzi/strimzi-kafka-operator/releases/download/0.18.0/
 [下篇：Kubernetes 0-1 K8s部署coredns](K8S部署coredns.md)
 
 ---
-[上篇：可能需要运行多次以下命令，确保k8s资源都创建](k8s-deploy-prometheus-grafana.md)
+[« 可能需要运行多次以下命令，确保k8s资源都创建](k8s-deploy-prometheus-grafana.md)
 
-[下篇：Kubernetes 定制开发 01：K8s API 概念](k8s-dev-01-api-concept.md)
+[» Kubernetes 定制开发 01：K8s API 概念](k8s-dev-01-api-concept.md)

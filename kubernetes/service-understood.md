@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 了解 Service
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 了解 Service
 
 # 了解 Service
 
@@ -150,6 +150,6 @@ spec:
 - 通过 ExternalIP（一般是 LoadBalancer 的地址）访问，集群外可访问。
 
 ---
-[上篇：了解 Secret](secret-understood.md)
+[« 了解 Secret](secret-understood.md)
 
-[下篇：Telepresence](telepresence.md)
+[» Telepresence](telepresence.md)

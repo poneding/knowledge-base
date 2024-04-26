@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Gateway API 实践
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Gateway API 实践
 
 # Gateway API 实践
 
@@ -265,6 +265,6 @@ spec:
 ```
 
 ---
-[上篇：强制删除 K8s 资源](delete-k8s-resource-force.md)
+[« 强制删除 K8s 资源](delete-k8s-resource-force.md)
 
-[下篇：Kubernetes 0-1 Helm Kubernetes 的包管理工具](helm-k8s-package-management-tool.md)
+[» Kubernetes 0-1 Helm Kubernetes 的包管理工具](helm-k8s-package-management-tool.md)

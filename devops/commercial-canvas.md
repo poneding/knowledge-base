@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / 商业画布
+[我的知识库](../README.md) / [DevOps](zz_generated_mdi.md) / 商业画布
 
 # 商业画布
 
@@ -26,6 +26,6 @@
 客户是商业模式的核心。哪些是重要客户
 
 ---
-[上篇：混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）](chaos-engineering.md)
+[« 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）](chaos-engineering.md)
 
-[下篇：nginx](nginx.md)
+[» nginx](nginx.md)

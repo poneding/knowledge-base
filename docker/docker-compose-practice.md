@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker Compose 实践
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / Docker Compose 实践
 
 # Docker Compose 实践
 
@@ -143,6 +143,6 @@ docker-compose up -d --no-deps --build web
 > 如果 `docker-compose.yml` 直接使用的镜像，那么直接更新，再次 `docker-compose up -d` 即可。
 
 ---
-[上篇：Docker 常用命令](docker-commands.md)
+[« Docker 常用命令](docker-commands.md)
 
-[下篇：Docker 容器中安装 PFX 证书](docker-container-install-pfx-cert.md)
+[» Docker 容器中安装 PFX 证书](docker-container-install-pfx-cert.md)

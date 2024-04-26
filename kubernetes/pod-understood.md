@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 了解 Pod
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 了解 Pod
 
 # Kubernetes 0-1 了解 Pod
 
@@ -174,6 +174,6 @@ kubelet 定义了 pod 的日志路径，宿主机目录：
 日志文件名为 0.log，1.log...，这里数字使用的是容器重启的次数。
 
 ---
-[上篇：使用 nfs 持久化存储](nfs-as-pvc.md)
+[« 使用 nfs 持久化存储](nfs-as-pvc.md)
 
-[下篇：Kubernetes 编程](prgramming-kubernetes.md)
+[» Kubernetes 编程](prgramming-kubernetes.md)

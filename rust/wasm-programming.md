@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Rust](zz_gneratered_mdi.md) / Rust WASM 编程
+[我的知识库](../README.md) / [Rust](zz_generated_mdi.md) / Rust WASM 编程
 
 # Rust WASM 编程
 
@@ -62,4 +62,4 @@ wasm-pack build --scope [npm-username]
 ```
 
 ---
-[上篇：Rust VSCode 调试](vscode-debugging.md)
+[« Rust VSCode 调试](vscode-debugging.md)

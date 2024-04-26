@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes Dashboard
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes Dashboard
 
 # Kubernetes Dashboard
 
@@ -431,6 +431,6 @@ spec:
 2. <https://kubernetes.io/docs/tasks/access-application-cluster/web-ui-dashboard/#deploying-the-dashboard-ui>
 
 ---
-[上篇：Kubernetes 0-1 Kubernetes最佳实践](kubernetes-best-practice.md)
+[« Kubernetes 0-1 Kubernetes最佳实践](kubernetes-best-practice.md)
 
-[下篇：Kubernetes 中资源名称规范](kubernetes-naming-constraints.md)
+[» Kubernetes 中资源名称规范](kubernetes-naming-constraints.md)

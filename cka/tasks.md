@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [CKA](zz_gneratered_mdi.md) / 考题
+[我的知识库](../README.md) / [CKA](zz_generated_mdi.md) / 考题
 
 # 考题
 
@@ -40,4 +40,4 @@ ETCDCTL_API=3 etcdctl --endpoints=https://[127.0.0.1]:2379 --cacert=/etc/kuberne
 ```
 
 ---
-[上篇：准备CKA](prepare-cka.md)
+[« 准备CKA](prepare-cka.md)

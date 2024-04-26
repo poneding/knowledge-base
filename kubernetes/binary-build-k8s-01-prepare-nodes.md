@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 二进制搭建 K8s - 1 机器准备
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 二进制搭建 K8s - 1 机器准备
 
 # 二进制搭建 K8s - 1 机器准备
 
@@ -142,6 +142,6 @@ wget https://download.docker.com/linux/static/stable/x86_64/docker-19.03.9.tgz
 > [下篇：二进制搭建 K8s - 2 部署 etcd 集群](binary-build-k8s-02-deploy-etcd.md)
 
 ---
-[上篇：apiserver](apiserver.md)
+[« apiserver](apiserver.md)
 
-[下篇：二进制搭建 K8s - 2 部署 etcd 集群](binary-build-k8s-02-deploy-etcd.md)
+[» 二进制搭建 K8s - 2 部署 etcd 集群](binary-build-k8s-02-deploy-etcd.md)

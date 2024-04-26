@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / VPA
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / VPA
 
 # VPA
 
@@ -29,4 +29,4 @@ cd ./autoscaler/vertical-pod-autoscaler
 ## 示例
 
 ---
-[上篇：了解 Volume](volume-understood.md)
+[« 了解 Volume](volume-understood.md)

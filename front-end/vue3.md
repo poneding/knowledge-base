@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [前端技术](zz_gneratered_mdi.md) / 认识Vue3
+[我的知识库](../README.md) / [前端技术](zz_generated_mdi.md) / 认识Vue3
 
 # 认识Vue3
 
@@ -412,4 +412,4 @@ git clone  http://git.itcast.cn/heimaqianduan/vue3-basic-project.git
 3. 案例项目有俩个分支，main主分支为开发分支，complete分支为完成版分支供开发完参考
 
 ---
-[上篇：VitePress](vitepress.md)
+[« VitePress](vitepress.md)

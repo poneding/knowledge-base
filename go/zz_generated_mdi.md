@@ -1,8 +1,6 @@
-[我的知识库](../README.md) / Golang
+[我的知识库](../README.md) / Go
 
-# Golang
-
-[Untitled.md](Untitled.md)
+# Go
 
 [Golang 函数可选参数模式](function-optional-pattern.md)
 

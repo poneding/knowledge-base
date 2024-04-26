@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Rust](zz_gneratered_mdi.md) / Rust 开发环境配置
+[我的知识库](../README.md) / [Rust](zz_generated_mdi.md) / Rust 开发环境配置
 
 # Rust 开发环境配置
 
@@ -69,6 +69,6 @@ exec zsh
 ```
 
 ---
-[上篇：Rust cargo 管理工具](cargo-tools.md)
+[« Rust cargo 管理工具](cargo-tools.md)
 
-[下篇：Rust VSCode 调试](vscode-debugging.md)
+[» Rust VSCode 调试](vscode-debugging.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / 理解 docker run --link
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / 理解 docker run --link
 
 # 理解 docker run --link
 
@@ -17,6 +17,6 @@ container1 连接 container2，达到：
 - 获取 container2 的环境变量
 
 ---
-[上篇：使用 docker manifest 命令构建多架构镜像](docker-manifest-build-cross-arch-image.md)
+[« 使用 docker manifest 命令构建多架构镜像](docker-manifest-build-cross-arch-image.md)
 
-[下篇：Docker 可视化工具 Kitematic](docker-visiable-tool-kitematic.md)
+[» Docker 可视化工具 Kitematic](docker-visiable-tool-kitematic.md)

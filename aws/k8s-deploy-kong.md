@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / K8s 部署 Kong 服务
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / K8s 部署 Kong 服务
 
 # K8s 部署 Kong 服务
 
@@ -119,6 +119,6 @@ metadata:
 > 使用 nginx 对外暴露 kong 指标数据的接口，通过这个接口，prometheus 可以抓取到 kong 服务指标数据。
 
 ---
-[上篇：Gitlab & EKS](gitlab-eks.md)
+[« Gitlab & EKS](gitlab-eks.md)
 
-[下篇：K8s 部署 konga](k8s-deploy-konga.md)
+[» K8s 部署 konga](k8s-deploy-konga.md)

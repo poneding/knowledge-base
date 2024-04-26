@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker 可视化工具 Kitematic
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / Docker 可视化工具 Kitematic
 
 # Docker 可视化工具 Kitematic
 
@@ -55,6 +55,6 @@ sudo chmod a+rw /var/run/docker.sock
 这个工具功能还在不断完善，但是使用体验还算不错，推荐给大家，更多使用细节可以自己慢慢挖掘。
 
 ---
-[上篇：理解 docker run --link](docker-run-link.md)
+[« 理解 docker run --link](docker-run-link.md)
 
-[下篇：Dockerfile](dockerfile.md)
+[» Dockerfile](dockerfile.md)

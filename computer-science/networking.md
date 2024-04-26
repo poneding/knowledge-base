@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [computer](zz_gneratered_mdi.md) / 网络通信
+[我的知识库](../README.md) / [计算机科学](zz_generated_mdi.md) / 网络通信
 
 # 网络通信
 
@@ -13,5 +13,8 @@
 - 异步 I/O (Asynchronous I/O)
 
 操作系统上的 I/O 是用户空间和内核空间的数据交互。
+
 ---
-[下篇：虚拟内存](virtual-memory.md)
+[« 互联网如何运作？](internet.md)
+
+[» 虚拟内存](virtual-memory.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 通过 Ingress 进行灰度发布
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 通过 Ingress 进行灰度发布
 
 # 通过 Ingress 进行灰度发布
 
@@ -303,6 +303,6 @@ Host: my-app-v2-67c69b8857-g82gr, Version: v2.0.0
 ```
 
 ---
-[上篇：Informer](informer.md)
+[« Informer](informer.md)
 
-[下篇：K3s](k3s.md)
+[» K3s](k3s.md)

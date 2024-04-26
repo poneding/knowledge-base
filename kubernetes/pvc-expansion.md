@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / PVC 扩容
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / PVC 扩容
 
 # PVC 扩容
 
@@ -29,6 +29,6 @@ allowVolumeExpansion: true # 允许卷扩充
 之后再次执行 PVC 扩容的操作即可。
 
 ---
-[上篇：Prometheus](prometheus.md)
+[« Prometheus](prometheus.md)
 
-[下篇：了解 Secret](secret-understood.md)
+[» 了解 Secret](secret-understood.md)

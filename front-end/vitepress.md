@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [前端技术](zz_gneratered_mdi.md) / VitePress
+[我的知识库](../README.md) / [前端技术](zz_generated_mdi.md) / VitePress
 
 # VitePress
 
@@ -163,6 +163,6 @@ uses: actions/deploy-pages@v4
 
 > 需要该 GitHub 仓库开启 Action 并且配置 GITHUB_TOKEN。
 ---
-[上篇：Pinia 入门](pinia.md)
+[« Pinia 入门](pinia.md)
 
-[下篇：认识Vue3](vue3.md)
+[» 认识Vue3](vue3.md)

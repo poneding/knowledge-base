@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / K8s 部署 konga
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / K8s 部署 konga
 
 # K8s 部署 konga
 
@@ -215,6 +215,6 @@ kubectl apply -f konga-ingress.yaml
 ![image-20200316124621295](https://fs.poneding.com/images/image-20200316124621295.png)
 
 ---
-[上篇：K8s 部署 Kong 服务](k8s-deploy-kong.md)
+[« K8s 部署 Kong 服务](k8s-deploy-kong.md)
 
-[下篇：K8s 部署 Postgres](k8s-deploy-postgres.md)
+[» K8s 部署 Postgres](k8s-deploy-postgres.md)

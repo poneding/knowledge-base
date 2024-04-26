@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 可能需要运行多次以下命令，确保k8s资源都创建
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 可能需要运行多次以下命令，确保k8s资源都创建
 
 ## Step
 
@@ -67,6 +67,6 @@ spec:
 ```
 
 ---
-[上篇：Kubernetes 0-1 K8s部署EFK](k8s-deploy-efk.md)
+[« Kubernetes 0-1 K8s部署EFK](k8s-deploy-efk.md)
 
-[下篇：Kubernetes 0-1 K8s部署Zookeeper和Kafka](k8s-deploy-zookeeper-kafka.md)
+[» Kubernetes 0-1 K8s部署Zookeeper和Kafka](k8s-deploy-zookeeper-kafka.md)

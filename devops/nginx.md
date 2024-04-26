@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / nginx
+[我的知识库](../README.md) / [DevOps](zz_generated_mdi.md) / nginx
 
 # nginx
 
@@ -136,4 +136,4 @@ nginx -t -c /etc/nginx/conf.d/default.conf
 ```
 
 ---
-[上篇：商业画布](commercial-canvas.md)
+[« 商业画布](commercial-canvas.md)

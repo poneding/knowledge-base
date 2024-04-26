@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / certbot-auto 生成证书
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / certbot-auto 生成证书
 
 # certbot-auto 生成证书
 
@@ -58,4 +58,4 @@ server{
 - certbot 文档：<https://eff-certbot.readthedocs.io/en/stable/index.html>
 
 ---
-[下篇：Linux-history 输出附带日期](history-with-date.md)
+[» Linux-history 输出附带日期](history-with-date.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 使用 aws-acm 管理 tls 密钥和证书
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / 使用 aws-acm 管理 tls 密钥和证书
 
 # 使用 aws-acm 管理 tls 密钥和证书
 
@@ -107,6 +107,6 @@ spec:
 > example.com 替换成你访问服务的域名。
 
 ---
-[上篇：Istio](Istio.md)
+[« Istio](Istio.md)
 
-[下篇：安装 Istio](installation.md)
+[» 安装 Istio](installation.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 了解 Secret
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 了解 Secret
 
 # 了解 Secret
 
@@ -309,6 +309,6 @@ spec:
 ```
 
 ---
-[上篇：PVC 扩容](pvc-expansion.md)
+[« PVC 扩容](pvc-expansion.md)
 
-[下篇：了解 Service](service-understood.md)
+[» 了解 Service](service-understood.md)

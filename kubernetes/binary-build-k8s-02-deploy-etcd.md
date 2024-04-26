@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 二进制搭建 K8s - 2 部署 etcd 集群
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 二进制搭建 K8s - 2 部署 etcd 集群
 
 # 二进制搭建 K8s - 2 部署 etcd 集群
 
@@ -282,6 +282,6 @@ https://192.168.115.131:2379 is healthy: successfully committed proposal: took =
 第二段落**部署 etcd 集群**愉快结束。
 
 ---
-[上篇：二进制搭建 K8s - 1 机器准备](binary-build-k8s-01-prepare-nodes.md)
+[« 二进制搭建 K8s - 1 机器准备](binary-build-k8s-01-prepare-nodes.md)
 
-[下篇：二进制搭建 K8s - 3 部署 Master](binary-build-k8s-03-deploy-master.md)
+[» 二进制搭建 K8s - 3 部署 Master](binary-build-k8s-03-deploy-master.md)

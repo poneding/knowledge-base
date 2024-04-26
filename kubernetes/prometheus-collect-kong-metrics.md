@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Prometheus-监控Kong完整操作
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Prometheus-监控Kong完整操作
 
 # Prometheus-监控Kong完整操作
 
@@ -63,6 +63,6 @@ scrape_configs配置项下添加如下配置
 ![image-20200228163048474](https://fs.poneding.com/images/image-20200228163048474.png)
 
 ---
-[上篇：Kubernetes 编程](prgramming-kubernetes.md)
+[« Kubernetes 编程](prgramming-kubernetes.md)
 
-[下篇：Prometheus](prometheus.md)
+[» Prometheus](prometheus.md)

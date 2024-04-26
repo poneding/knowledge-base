@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [中间件](zz_gneratered_mdi.md) / Elasticsearch
+[我的知识库](../README.md) / [中间件](zz_generated_mdi.md) / Elasticsearch
 
 # Elasticsearch
 
@@ -271,4 +271,4 @@ curl -XPUT $CLUSTER_URL/_cluster/settings -H 'Content-type: application/json' --
 ```
 
 ---
-[下篇：MongoDB](mongodb.md)
+[» MongoDB](mongodb.md)

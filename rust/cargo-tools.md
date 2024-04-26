@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Rust](zz_gneratered_mdi.md) / Rust cargo 管理工具
+[我的知识库](../README.md) / [Rust](zz_generated_mdi.md) / Rust cargo 管理工具
 
 # Rust cargo 管理工具
 
@@ -113,4 +113,4 @@ cargo test
 ```
 
 ---
-[下篇：Rust 开发环境配置](dev-env-config.md)
+[» Rust 开发环境配置](dev-env-config.md)

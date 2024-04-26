@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / EKS实践 集成Gitlab自动发布（二）
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / EKS实践 集成Gitlab自动发布（二）
 
 # EKS实践 集成Gitlab自动发布（二）
 
@@ -37,6 +37,6 @@ docker push gitlab-runner-base:latest
 项目仓库根目录下新增.gitlab-ci.yml文件，然后文件内容
 
 ---
-[上篇：EKS实践 集成Gitlab自动发布（一）](eks-intergrate-gitlab-auto-release-01.md)
+[« EKS实践 集成Gitlab自动发布（一）](eks-intergrate-gitlab-auto-release-01.md)
 
-[下篇：EKS-使用EFS](eks-use-efs.md)
+[» EKS-使用EFS](eks-use-efs.md)

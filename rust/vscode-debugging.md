@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Rust](zz_gneratered_mdi.md) / Rust VSCode 调试
+[我的知识库](../README.md) / [Rust](zz_generated_mdi.md) / Rust VSCode 调试
 
 # Rust VSCode 调试
 
@@ -51,6 +51,6 @@
 > 支持 Wrokspace 下多 Rust 项目调试。
 
 ---
-[上篇：Rust 开发环境配置](dev-env-config.md)
+[« Rust 开发环境配置](dev-env-config.md)
 
-[下篇：Rust WASM 编程](wasm-programming.md)
+[» Rust WASM 编程](wasm-programming.md)

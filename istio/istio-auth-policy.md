@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / 授权策略 Authorization Policy
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / 授权策略 Authorization Policy
 
 # 授权策略 Authorization Policy
 
@@ -83,6 +83,6 @@ spec:
 ```
 
 ---
-[上篇：安装 Istio](installation.md)
+[« 安装 Istio](installation.md)
 
-[下篇：应用平台实现应用金丝雀发布](istio-canary-deploy.md)
+[» 应用平台实现应用金丝雀发布](istio-canary-deploy.md)

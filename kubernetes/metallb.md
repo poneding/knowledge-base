@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 K8s自建LoadBalancer
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 K8s自建LoadBalancer
 
 # Kubernetes 0-1 K8s自建LoadBalancer
 
@@ -90,6 +90,6 @@ nginx        LoadBalancer   10.0.0.82    192.168.115.140   80:31610/TCP   8s
 ![image](https://fs.poneding.com/images/white.jpg)
 
 ---
-[上篇：local 存储卷实践](local-storageclass.md)
+[« local 存储卷实践](local-storageclass.md)
 
-[下篇：使用 nfs 持久化存储](nfs-as-pvc.md)
+[» 使用 nfs 持久化存储](nfs-as-pvc.md)

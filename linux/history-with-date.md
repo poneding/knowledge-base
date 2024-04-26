@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / Linux-history 输出附带日期
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / Linux-history 输出附带日期
 
 # Linux-history 输出附带日期
 
@@ -51,6 +51,6 @@ $ source ~/.bash_profile
 ```
 
 ---
-[上篇：certbot-auto 生成证书](certbot-auto-gen-cert.md)
+[« certbot-auto 生成证书](certbot-auto-gen-cert.md)
 
-[下篇：Linux 命令](linux-commands.md)
+[» Linux 命令](linux-commands.md)

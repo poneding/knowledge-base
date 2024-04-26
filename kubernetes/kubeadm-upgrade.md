@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubeadm 升级 K8s
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubeadm 升级 K8s
 
 # Kubeadm 升级 K8s
 
@@ -91,6 +91,6 @@ sudo sed -i 's/1.28/1.29/g' /etc/apt/sources.list.d/kubernetes.list
 - [Upgrading kubeadm clusters](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade/)
 
 ---
-[上篇：kubeadm 安装 k8s (containerd)](kubeadm-install-k8s.md)
+[« kubeadm 安装 k8s (containerd)](kubeadm-install-k8s.md)
 
-[下篇：kubebuilder 实战](kubebuilder-inaction.md)
+[» kubebuilder 实战](kubebuilder-inaction.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / go:linkname 指令
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / go:linkname 指令
 
 # go:linkname 指令
 
@@ -119,6 +119,6 @@ func Foo()
 ```
 
 ---
-[上篇：Golang 生成证书](go-gen-cert.md)
+[« Golang 生成证书](go-gen-cert.md)
 
-[下篇：Golang 列表转树](go-list-to-tree.md)
+[» Golang 列表转树](go-list-to-tree.md)

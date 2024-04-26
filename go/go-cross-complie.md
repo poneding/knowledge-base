@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 不同平台架构编译
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Golang 不同平台架构编译
 
 # Golang 不同平台架构编译
 
@@ -30,6 +30,6 @@ CGO_ENABLED=0 GOOS=windows GOARCH=arm64 go build main.go
 ```
 
 ---
-[上篇：Golang 密钥对、数字签名和证书管理](go-cert-management.md)
+[« Golang 密钥对、数字签名和证书管理](go-cert-management.md)
 
-[下篇：Golang 生成证书](go-gen-cert.md)
+[» Golang 生成证书](go-gen-cert.md)

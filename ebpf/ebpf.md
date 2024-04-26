@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [ebpf](zz_gneratered_mdi.md) / eBPF
+[我的知识库](../README.md) / [eBPF](zz_generated_mdi.md) / eBPF
 
 # eBPF
 
@@ -30,7 +30,6 @@ eBPF 程序是事件驱动的，当内核或应用程序通过某个钩子点时
 
 ![image.png](https://images.poneding.com/2024/04/202404081057024.png)
 
-
 如果不存在更高层次的抽象，则需要直接编写程序。Linux 内核期望 eBPF 程序以字节码的形式加载。虽然直接编写字节码当然是可能的，但更常见的开发实践是利用像 [LLVM](https://llvm.org/) 这样的编译器套件将伪 c 代码编译成 eBPF 字节码。
 
 ## 安全性
@@ -46,7 +45,7 @@ eBPF 程序是事件驱动的，当内核或应用程序通过某个钩子点时
 ## 项目
 
 - [Cilium](https://cilium.io/)：基于 eBPF 的数据平面的网络，可观测性、安全性的解决方案。
-- (Pixie)[https://px.dev/]：基于 eBPF 实现的 Kubernetes 可观测性解决方案。
+- [Pixie](https://px.dev/)：基于 eBPF 实现的 Kubernetes 可观测性解决方案。
 - [Hubble](https://github.com/cilium/hubble)
 - [Calico](https://github.com/projectcalico/calico)
 

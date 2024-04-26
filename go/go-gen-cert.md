@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 生成证书
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Golang 生成证书
 
 # Golang 生成证书
 
@@ -183,6 +183,6 @@ func DomainSign(ips []string, domains ...string) ([]byte, []byte, []byte, error)
 ```
 
 ---
-[上篇：Golang 不同平台架构编译](go-cross-complie.md)
+[« Golang 不同平台架构编译](go-cross-complie.md)
 
-[下篇：go:linkname 指令](go-linkname.md)
+[» go:linkname 指令](go-linkname.md)

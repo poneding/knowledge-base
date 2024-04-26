@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [操作系统](zz_gneratered_mdi.md) / Ubuntu
+[我的知识库](../README.md) / [操作系统](zz_generated_mdi.md) / Ubuntu
 
 # Ubuntu
 
@@ -136,7 +136,8 @@ solaar
 好像是 Ubuntu 23.10 后支持。
 
 1. 首先需要安装中文语言；
-2. 选择输入法，Chinese，双击打开
+2. 选择输入法，Chinese，双击打开；
+3. 输入法设置，取消英文模式。
 
 ## 虚拟机
 
@@ -175,6 +176,6 @@ sudo do-release-upgrade
 ```
 
 ---
-[上篇：openssl](openssl.md)
+[« openssl](openssl.md)
 
-[下篇：Windows 使用姿势](windows.md)
+[» Windows 使用姿势](windows.md)

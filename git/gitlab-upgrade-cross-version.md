@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / Gitlab 跨版本升级
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / Gitlab 跨版本升级
 
 # Gitlab 跨版本升级
 
@@ -99,6 +99,6 @@ gitlab-rake gitlab:backup:restore BACKUP=1592276197_2020_06_16_11.2.3
 > `BACKUP` 命令参数指定值为 `/var/opt/gitlab/backups/` 目录下的备份文件，但是无需携带 `_gitlab_backup.tar` 后缀。
 
 ---
-[上篇：Gitlab 添加 K8s 集群](gitlab-intergrate-k8s.md)
+[« Gitlab 添加 K8s 集群](gitlab-intergrate-k8s.md)
 
-[下篇：多 GitHub 账号管理](multi-github-account-management.md)
+[» 多 GitHub 账号管理](multi-github-account-management.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Linux](zz_gneratered_mdi.md) / Linux 启用 crontab 日志
+[我的知识库](../README.md) / [Linux](zz_generated_mdi.md) / Linux 启用 crontab 日志
 
 # Linux 启用 crontab 日志
 
@@ -20,6 +20,6 @@ sudo service cron restart
 Cron jobs will log to `/var/log/cron.log` .
 
 ---
-[上篇：Linux常用命令](linux-common-commands.md)
+[« Linux常用命令](linux-common-commands.md)
 
-[下篇：Linux-安全登录](linux-secure-login.md)
+[» Linux-安全登录](linux-secure-login.md)

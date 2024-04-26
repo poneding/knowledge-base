@@ -1,4 +1,4 @@
-[我的知识库](../../README.md) / [DevOps](../zz_gneratered_mdi.md) / Grafana
+[我的知识库](../../README.md) / [DevOps](../zz_generated_mdi.md) / Grafana
 
 # Grafana
 

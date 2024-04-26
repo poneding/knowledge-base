@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 0-1 使用preStop优雅终止Pod
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 0-1 使用preStop优雅终止Pod
 
 # Kubernetes 0-1 使用preStop优雅终止Pod
 
@@ -133,6 +133,6 @@ Pod的终止过程：
 ![gzh](https://fs.poneding.com/images/gzh.png)
 
 ---
-[上篇：Telepresence](telepresence.md)
+[« Telepresence](telepresence.md)
 
-[下篇：Terraform](terraform.md)
+[» Terraform](terraform.md)

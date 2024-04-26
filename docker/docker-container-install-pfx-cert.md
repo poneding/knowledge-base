@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / Docker 容器中安装 PFX 证书
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / Docker 容器中安装 PFX 证书
 
 # Docker 容器中安装 PFX 证书
 
@@ -49,6 +49,6 @@ ENTRYPOINT ["dotnet", "PfxTest.dll"]
 ```
 
 ---
-[上篇：Docker Compose 实践](docker-compose-practice.md)
+[« Docker Compose 实践](docker-compose-practice.md)
 
-[下篇：Docker 主机容器互拷贝文件](docker-copy-between-host-container.md)
+[» Docker 主机容器互拷贝文件](docker-copy-between-host-container.md)

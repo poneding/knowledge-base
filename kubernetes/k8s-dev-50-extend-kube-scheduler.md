@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Kubernetes 定制开发 50：扩展调度器
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Kubernetes 定制开发 50：扩展调度器
 
 # Kubernetes 定制开发 50：扩展调度器
 
@@ -761,6 +761,6 @@ kubectl logs deploy/my-scheduler-extender -n kube-system -f
 - [Create a custom Kubernetes scheduler](https://developer.ibm.com/articles/creating-a-custom-kube-scheduler)
 
 ---
-[上篇：Kubernetes 定制开发 02：CRD](k8s-dev-02-crd.md)
+[« Kubernetes 定制开发 02：CRD](k8s-dev-02-crd.md)
 
-[下篇：简单介绍 K8s](k8s-get-started.md)
+[» 简单介绍 K8s](k8s-get-started.md)

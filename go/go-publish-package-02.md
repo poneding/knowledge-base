@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Golang](zz_gneratered_mdi.md) / Golang 发布类库 - 2
+[我的知识库](../README.md) / [Go](zz_generated_mdi.md) / Golang 发布类库 - 2
 
 # Golang 发布类库 - 2
 
@@ -226,6 +226,6 @@ replace (
 主版本升级会给代码的维护和版本的维护增加难度，并且需要下游用户迁移版本。最好是当存在令人信服的原因时才对类库主版本进行升级，例如为了优化代码大规模重构。
 
 ---
-[上篇：Golang 发布类库 - 1](go-publish-package-01.md)
+[« Golang 发布类库 - 1](go-publish-package-01.md)
 
-[下篇：Go 程序 SOLID 设计原则](go-solid.md)
+[» Go 程序 SOLID 设计原则](go-solid.md)

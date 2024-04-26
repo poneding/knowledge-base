@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Istio](zz_gneratered_mdi.md) / Istio 0-1 流量管理方案
+[我的知识库](../README.md) / [Istio](zz_generated_mdi.md) / Istio 0-1 流量管理方案
 
 # Istio 0-1 流量管理方案
 
@@ -7,4 +7,4 @@
 **PILOT_ENABLE_VIRTUAL_SERVICE_DELEGATE =true**：
 
 ---
-[上篇：实现 Https 协议的转发](tls-transform.md)
+[« 实现 Https 协议的转发](tls-transform.md)

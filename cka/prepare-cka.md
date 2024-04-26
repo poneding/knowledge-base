@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [CKA](zz_gneratered_mdi.md) / 准备CKA
+[我的知识库](../README.md) / [CKA](zz_generated_mdi.md) / 准备CKA
 
 # 准备CKA
 
@@ -13,6 +13,6 @@ Affkub95-268483
 ![image-20210604135020151](https://fs.poneding.com/images/image-20210604135020151.png)
 
 ---
-[上篇：001](001.md)
+[« 001](001.md)
 
-[下篇：考题](tasks.md)
+[» 考题](tasks.md)

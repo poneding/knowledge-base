@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [中间件](zz_gneratered_mdi.md) / MySQL
+[我的知识库](../README.md) / [中间件](zz_generated_mdi.md) / MySQL
 
 # MySQL
 
@@ -314,6 +314,6 @@ insert into t_b (t_b.f1,t_b.f2,...) select t_a.f1, t_a.f2, ... from t_a
 可以使用 `as` 使字段映射，可以使用 `where` 过滤数据
 
 ---
-[上篇：MongoDB](mongodb.md)
+[« MongoDB](mongodb.md)
 
-[下篇：Postgres](postgres.md)
+[» Postgres](postgres.md)

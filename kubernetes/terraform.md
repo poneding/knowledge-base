@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Terraform
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Terraform
 
 # Terraform
 
@@ -75,6 +75,6 @@ resource "aws_instance" "demo" {
 ```
 
 ---
-[上篇：Kubernetes 0-1 使用preStop优雅终止Pod](terminate-pod-gracefully.md)
+[« Kubernetes 0-1 使用preStop优雅终止Pod](terminate-pod-gracefully.md)
 
-[下篇：Velero + Minio 备份与恢复](velero-minio-backup-restore-volume.md)
+[» Velero + Minio 备份与恢复](velero-minio-backup-restore-volume.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / docker buildx
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / docker buildx
 
 # docker buildx
 
@@ -103,6 +103,6 @@ docker buildx rm demo-builder
 ```
 
 ---
-[上篇：Docker in Docker](dind.md)
+[« Docker in Docker](dind.md)
 
-[下篇：Docker 常用命令](docker-commands.md)
+[» Docker 常用命令](docker-commands.md)

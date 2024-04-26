@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [DevOps](zz_gneratered_mdi.md) / 蓝绿部署、滚动部署和灰度部署
+[我的知识库](../README.md) / [DevOps](zz_generated_mdi.md) / 蓝绿部署、滚动部署和灰度部署
 
 # 蓝绿部署、滚动部署和灰度部署
 
@@ -51,6 +51,6 @@ V2版本有bug的话，不能及时回滚。
 同样无需增加服务器，能较为平稳的过渡到新版本，并且当有bug时也能做到快速回滚。
 
 ---
-[上篇：Ansible](ansible.md)
+[« Ansible](ansible.md)
 
-[下篇：混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）](chaos-engineering.md)
+[» 混沌工程原则 （PRINCIPLES OF CHAOS ENGINEERING）](chaos-engineering.md)

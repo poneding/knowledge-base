@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / 非 root 账号获取 docker 权限
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / 非 root 账号获取 docker 权限
 
 # 非 root 账号获取 docker 权限
 
@@ -21,4 +21,4 @@ sudo chmod a+rw /var/run/docker.sock
 快去试试吧。
 
 ---
-[上篇：Linux 容器](linux-container.md)
+[« Linux 容器](linux-container.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Git](zz_gneratered_mdi.md) / Git 常用
+[我的知识库](../README.md) / [Git](zz_generated_mdi.md) / Git 常用
 
 # Git 常用
 
@@ -78,8 +78,11 @@ git config --global pull.rebase true
 ### 初始化仓库
 
 ```bash
-# 在当前目录创建仓库
+# 在当前目录初始化仓库
 git init
+
+# 初始化并指定初始化分支
+git init -b dev
 
 # 在指定目录创建仓库
 git init mydir
@@ -112,6 +115,12 @@ git push
 
 # 首次推送到远程仓库
 git push -u origin master
+
+# 推送所有本地分支到远程仓库
+git push --all
+
+# 推送所有标签到远程仓库
+git push --tags
 ```
 
 ### 添加远程仓库
@@ -145,6 +154,31 @@ git stash list
 git stash pop
 ```
 
+## 提交修正
+
+- 多次提交的内容其实可以合并成一次提交，这样可以保持提交历史的整洁。
+- 想要修改提交的信息，例如提交信息描述不准确、拼写错误等。
+
+```bash
+# 修改最近一次提交的信息
+git commit --amend -m "new commit message"
+```
+
+## 提交规范
+
+规范化的 commit 提交有一些约定俗称的格式，下面快速枚举一些常见格式：
+
+```bash
+# 功能类
+git commit -m "feat: xxx"
+
+# 修复类
+git commit -m "fix: xxx"
+
+# 杂事
+git commit -m "chore: xxx"
+```
+
 ## 撤销更改
 
 ### 还未 git add
@@ -161,9 +195,12 @@ git clean -f && git restore .
 ### 已经 git add，还未 git commit
 
 ```bash
+# 取消所有暂存的更改
+git reset
+git reset .
 git reset HEAD .
 
-# 撤销单个文件
+# 撤销单个文件的暂存更改
 git reset HEAD README.md
 ```
 
@@ -316,6 +353,7 @@ git remote set-url origin git@github.com:poneding/demo.git
 ```bash
 git remote remove origin
 ```
+
 ### 多远程
 
 ```bash
@@ -330,6 +368,17 @@ git push origin2 master
 git push --mirror origin
 # git push --all origin2 # 所有分支
 git push --mirror origin2
+```
+
+注意，后续提交到远程时：
+
+```bash
+# 默认提交到 origin 远程
+git push
+
+# 提交到 origin2 远程
+git pull origin2 master
+git push origin2 master
 ```
 
 ## Git 信息
@@ -358,6 +407,14 @@ git push -u --force origin master
 
 ## 排错
 
+### Q1：Permissions 0664 for '~/.ssh/id_rsa' are too open
+
+ssh 私钥文件权限过高，需要修改为 600。
+
+```bash
+chmod 600 ~/.ssh/id_rsa
+```
+
 ### Q1：证书颁发者未被识别
 
 问题描述：Peer’s Certificate issuer is not recognized.
@@ -373,4 +430,4 @@ git config --global http."sslVerify" false
 ```
 
 ---
-[下篇：使用 git-secret 保护仓库敏感数据](git-secret.md)
+[» 使用 git-secret 保护仓库敏感数据](git-secret.md)

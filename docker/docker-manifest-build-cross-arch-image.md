@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Docker](zz_gneratered_mdi.md) / 使用 docker manifest 命令构建多架构镜像
+[我的知识库](../README.md) / [Docker](zz_generated_mdi.md) / 使用 docker manifest 命令构建多架构镜像
 
 # 使用 docker manifest 命令构建多架构镜像
 
@@ -24,6 +24,6 @@ docker run --rm --privileged multiarch/qemu-user-static --reset --persistent yes
 ```
 
 ---
-[上篇：Docker 主机容器互拷贝文件](docker-copy-between-host-container.md)
+[« Docker 主机容器互拷贝文件](docker-copy-between-host-container.md)
 
-[下篇：理解 docker run --link](docker-run-link.md)
+[» 理解 docker run --link](docker-run-link.md)

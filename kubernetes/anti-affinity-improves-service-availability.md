@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 反亲和性提高服务可用性
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 反亲和性提高服务可用性
 
 # 反亲和性提高服务可用性
 
@@ -67,4 +67,4 @@ podAntiAffinity 使用场景：
 | PodAntiAffinity |      Pod |     In, NotIn, Exists, DoesNotExist     |         是 | pod 与指定 pod 非同一拓扑域 |
 
 ---
-[下篇：apiserver-builder](apiserver-builder.md)
+[» apiserver-builder](apiserver-builder.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / Prometheus
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / Prometheus
 
 # Prometheus
 
@@ -657,6 +657,6 @@ prometheus.yaml新增监控 的配置
 ## solved
 
 ---
-[上篇：Prometheus-监控Kong完整操作](prometheus-collect-kong-metrics.md)
+[« Prometheus-监控Kong完整操作](prometheus-collect-kong-metrics.md)
 
-[下篇：PVC 扩容](pvc-expansion.md)
+[» PVC 扩容](pvc-expansion.md)

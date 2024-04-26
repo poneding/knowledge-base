@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / Cluster AutoScaler
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / Cluster AutoScaler
 
 # Cluster AutoScaler
 
@@ -272,6 +272,6 @@ kubectl logs -f deployment.apps/cluster-autoscaler -n kube-system
 Pod的申请的资源（resources.requests）与现有节点资源作比较，如果发现集群资源超出申请的资源能够使得我们移除一个节点的话，那么Cluster AutoScaler便会修改Auto Scaling Group的asg_desired_capacity值，例如-1，但是不会小于asg_max_size。当有新Pod部署，发现集群资源达不到新Pod申请的资源时，那么Cluster AutoScaler便会修改Auto Scaling Group的asg_desired_capacity值，例如+1，但是不会大于asg_max_size。只要修改了Auto Scaling Group的asg_desired_capacity值，那么集群节点便会自动伸缩。
 
 ---
-[上篇：搭建EKS集群](build-eks-cluster.md)
+[« 搭建EKS集群](build-eks-cluster.md)
 
-[下篇：创建 EKS 集群](create-eks-cluster.md)
+[» 创建 EKS 集群](create-eks-cluster.md)

@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [AWS](zz_gneratered_mdi.md) / 创建 EKS 集群
+[我的知识库](../README.md) / [AWS](zz_generated_mdi.md) / 创建 EKS 集群
 
 # 创建 EKS 集群
 
@@ -173,6 +173,6 @@ eksctl create cluster --name dev-devops-eks2 --version 1.14 --region ap-southeas
 EKS Node 默认给的Role权限需要attch s3、secrets manager的权限。
 
 ---
-[上篇：Cluster AutoScaler](cluster-autoscaler.md)
+[« Cluster AutoScaler](cluster-autoscaler.md)
 
-[下篇：EKS配置 ALB Ingress](eks-config-alb-ingress.md)
+[» EKS配置 ALB Ingress](eks-config-alb-ingress.md)

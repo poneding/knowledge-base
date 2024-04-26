@@ -1,4 +1,4 @@
-[我的知识库](../README.md) / [Kubernetes](zz_gneratered_mdi.md) / 二进制搭建 K8s - 4 部署 Node
+[我的知识库](../README.md) / [Kubernetes](zz_generated_mdi.md) / 二进制搭建 K8s - 4 部署 Node
 
 # 二进制搭建 K8s - 4 部署 Node
 
@@ -493,6 +493,6 @@ Commercial support is available at
 大部分问题都是出在配置方面，或是文件路径配置问题，或是新版本的配置不兼容问题。
 
 ---
-[上篇：二进制搭建 K8s - 3 部署 Master](binary-build-k8s-03-deploy-master.md)
+[« 二进制搭建 K8s - 3 部署 Master](binary-build-k8s-03-deploy-master.md)
 
-[下篇：Kubernetes 0-1 尝试理解云原生](cloud-native-understood.md)
+[» Kubernetes 0-1 尝试理解云原生](cloud-native-understood.md)
