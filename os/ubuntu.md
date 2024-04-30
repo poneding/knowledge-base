@@ -175,6 +175,34 @@ sudo apt upgrade -y
 sudo do-release-upgrade
 ```
 
+## 输入法
+
+RIME 输入法：
+
+```bash
+sudo apt install ibus-rime
+```
+
+安装完成后，需要注销当前用户重新登录或者直接重启生效。
+
+配置：
+
+输入时按 F4，可以直接在输入界面配置，例如配置默认使用简体，默认使用英文等。
+
+## gnome-tweak 工具
+
+下载：
+
+```bash
+sudo apt install gnome-tweak -y
+```
+
+应用界面找到 Tweak 应用运行，或者直接终端输入 `gnome-tweak` 运行。
+
+配置：
+
+1. 在 2K 分辨率屏幕下可以调整配置：字体 -> Scaling Factor -> 调整为 1.2；
+
 ---
 [« openssl](openssl.md)
 
