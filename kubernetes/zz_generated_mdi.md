@@ -5,6 +5,7 @@
 ## [KubeVirt](kubevirt/zz_generated_mdi.md)
 
 - [Kubevirt 实践](kubevirt/kubevirt-practice.md)
+- [windows.md](kubevirt/windows.md)
 
 [反亲和性提高服务可用性](anti-affinity-improves-service-availability.md)
 

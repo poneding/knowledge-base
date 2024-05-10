@@ -3,3 +3,5 @@
 # KubeVirt
 
 [Kubevirt 实践](kubevirt-practice.md)
+
+[windows.md](windows.md)

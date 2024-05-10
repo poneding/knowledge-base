@@ -387,3 +387,6 @@ spec:
 ```bash
 kubectl proxy --port 8080
 ```
+
+---
+[» windows.md](windows.md)

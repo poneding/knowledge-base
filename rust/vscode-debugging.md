@@ -51,6 +51,6 @@
 > 支持 Wrokspace 下多 Rust 项目调试。
 
 ---
-[« Rust 开发环境配置](dev-env-config.md)
+[« rust-programming.md](rust-programming.md)
 
 [» Rust WASM 编程](wasm-programming.md)

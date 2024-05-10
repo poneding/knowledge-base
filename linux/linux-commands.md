@@ -291,7 +291,7 @@ chmod abc file
 
 其中a,b,c各为一个数字，分别表示User、Group、及Other的权限。
 
-#### r=4，w=2，x=1
+r=4，w=2，x=1
 
 - 若要rwx属性则4+2+1=7；
 - 若要rw-属性则4+2=6；

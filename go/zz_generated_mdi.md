@@ -2,6 +2,8 @@
 
 # Go
 
+[Go 开发环境配置](dev-env-config.md)
+
 [Golang 函数可选参数模式](function-optional-pattern.md)
 
 [Golang 密钥对、数字签名和证书管理](go-cert-management.md)

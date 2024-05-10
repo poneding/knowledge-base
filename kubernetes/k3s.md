@@ -45,7 +45,7 @@ k3s kubectl get node
 - nfs `sudo apt install nfs-common -y`
 
 ```bash
-curl -sfL https://rancher-mirror.oss-cn-beijing.aliyuncs.com/k3s/k3s-install.sh | INSTALL_K3S_VERSION="v1.22.6+k3s1" INSTALL_K3S_MIRROR=cn sh -s - server --node-ip "192.168.0.41,116.63.181.152,127.0.0.1" --docker --disable traefik
+curl -sfL https://rancher-mirror.oss-cn-beijing.aliyuncs.com/k3s/k3s-install.sh | INSTALL_K3S_VERSION="v1.22.6+k3s1" INSTALL_K3S_MIRROR=cn sh -s - server --docker --disable traefik
 ```
 
 > 使用 --docker 参数指定 docker 作为容器引擎：k3s 默认使用 docker 作为容器引擎，但是目前梧桐 PaaS 还不支持；

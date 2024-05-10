@@ -111,5 +111,19 @@ vim .oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 
 找到并配置：`ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=10'`
 
+```
+exec zsh
+```
+
+## Go 调试问题
+
+如果遇到 `Failed to launch: could not launch process: can not run under Rosetta, check that the installed build of Go is right for your CPU architecture` 问题，尝试以下解决方案：
+
+安装最新版本的 `delve`：
+
+```bash
+go install github.com/go-delve/delve/cmd/dlv@latest
+```
+
 ---
 [» ohmyzsh](ohmyzsh.md)

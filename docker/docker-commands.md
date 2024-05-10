@@ -64,6 +64,11 @@ sudo docker image prune
 sudo docker rmi $(sudo docker images | grep "^<none>" | awk "{print $3}")
 ```
 
+### 模糊清除镜像
+
+```bash
+docker rmi $(docker images | grep 'query' | awk '{print $3}')
+```
 ## 操作容器命令
 
 ### 查看已经退出的容器

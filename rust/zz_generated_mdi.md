@@ -6,6 +6,8 @@
 
 [Rust 开发环境配置](dev-env-config.md)
 
+[rust-programming.md](rust-programming.md)
+
 [Rust VSCode 调试](vscode-debugging.md)
 
 [Rust WASM 编程](wasm-programming.md)

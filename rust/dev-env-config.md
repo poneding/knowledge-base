@@ -36,6 +36,20 @@ rustup self uninstall
 
 ## 配置命令补全
 
+第一种方式，zsh 添加 rust 插件：
+
+```bash
+vim ~/.zshrc
+```
+
+找到 `plugins` 配置位置，追加 `rust`:
+
+```txt
+plugins=(... rust)
+```
+
+第二种方式：
+
 查看帮助：
 
 ```bash
@@ -71,4 +85,4 @@ exec zsh
 ---
 [« Rust cargo 管理工具](cargo-tools.md)
 
-[» Rust VSCode 调试](vscode-debugging.md)
+[» rust-programming.md](rust-programming.md)

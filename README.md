@@ -100,6 +100,7 @@
 
 ## [Go](go/zz_generated_mdi.md)
 
+- [Go 开发环境配置](go/dev-env-config.md)
 - [Golang 函数可选参数模式](go/function-optional-pattern.md)
 - [Golang 密钥对、数字签名和证书管理](go/go-cert-management.md)
 - [Golang 不同平台架构编译](go/go-cross-complie.md)
@@ -144,6 +145,7 @@
 
 - [KubeVirt](kubernetes/kubevirt/zz_generated_mdi.md)
   - [Kubevirt 实践](kubernetes/kubevirt/kubevirt-practice.md)
+  - [windows.md](kubernetes/kubevirt/windows.md)
 
 - [反亲和性提高服务可用性](kubernetes/anti-affinity-improves-service-availability.md)
 - [apiserver-builder](kubernetes/apiserver-builder.md)
@@ -240,5 +242,6 @@
 
 - [Rust cargo 管理工具](rust/cargo-tools.md)
 - [Rust 开发环境配置](rust/dev-env-config.md)
+- [rust-programming.md](rust/rust-programming.md)
 - [Rust VSCode 调试](rust/vscode-debugging.md)
 - [Rust WASM 编程](rust/wasm-programming.md)
