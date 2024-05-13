@@ -145,7 +145,8 @@
 
 - [KubeVirt](kubernetes/kubevirt/zz_generated_mdi.md)
   - [Kubevirt 实践](kubernetes/kubevirt/kubevirt-practice.md)
-  - [windows.md](kubernetes/kubevirt/windows.md)
+  - [制作虚拟机容器镜像](kubernetes/kubevirt/make-virtual-machine-container-image.md)
+  - [Kubevirt 安装 windows-server-2022](kubernetes/kubevirt/windows.md)
 
 - [反亲和性提高服务可用性](kubernetes/anti-affinity-improves-service-availability.md)
 - [apiserver-builder](kubernetes/apiserver-builder.md)
