@@ -187,8 +187,43 @@ sudo apt install ibus-rime
 
 配置：
 
-输入时按 F4，可以直接在输入界面配置，例如配置默认使用简体，默认使用英文等。
+输入时按 `F4`，可以直接在输入界面配置，例如配置默认使用简体，默认使用英文等。
 
+取消 `Ctrl+~` 的呼出配置（因为与 VS Code 快捷键冲突）：
+
+```bash
+vim .config/ibus/rime/default.custom.yaml
+
+# 配置内容
+patch:
+  schema_list:
+    - schema: "luna_pinyin_simp"
+  ascii_composer/good_old_caps_lock: true
+  ascii_composer/switch_key/Caps_Lock: "commit_text"
+  ascii_composer/switch_key/Shift_L: "commit_code"
+  ascii_composer/switch_key/Shift_R: "commit_code"
+  switcher/caption: "[输入法配置]"
+  switcher/option_list_separator: "/"
+  switcher/hotkeys:
+    - "F4"
+  "menu/page_size": 9
+
+# 使配置生效
+touch ~/.config/ibus/rime/; ibus restart
+```
+
+横排显示候选：
+
+```bash
+sudo vim /usr/share/rime-data/ibus_rime.yaml
+
+# 配置
+style:
+  horizontal: true
+
+# 使配置生效
+touch ~/.config/ibus/rime/; ibus restart
+```
 ## gnome-tweak 工具
 
 下载：
