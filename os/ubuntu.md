@@ -207,6 +207,12 @@ patch:
   switcher/hotkeys:
     - "F4"
   "menu/page_size": 9
+  punctuator/full_shape:
+    "#": "#"
+    "`": { commit: "`" }
+  punctuator/half_shape:
+    "#": "#"
+    "`": { commit: "`" }
 
 # 使配置生效
 touch ~/.config/ibus/rime/; ibus restart
