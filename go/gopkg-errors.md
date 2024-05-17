@@ -86,6 +86,6 @@ Before sending a PR, please discuss your change by raising an issue.
 BSD-2-Clause
 
 ---
-[« Golang](go.md)
+[« GoFrame](goframe.md)
 
 [» Goreleaser](goreleaser.md)
