@@ -240,7 +240,7 @@ touch ~/.config/ibus/rime/; ibus restart
 下载：
 
 ```bash
-sudo apt install gnome-tweak -y
+sudo apt install gnome-tweaks -y
 ```
 
 应用界面找到 Tweak 应用运行，或者直接终端输入 `gnome-tweak` 运行。
