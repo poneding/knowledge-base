@@ -198,10 +198,6 @@ vim .config/ibus/rime/default.custom.yaml
 patch:
   schema_list:
     - schema: "luna_pinyin_simp"
-  ascii_composer/good_old_caps_lock: true
-  ascii_composer/switch_key/Caps_Lock: "commit_text"
-  ascii_composer/switch_key/Shift_L: "commit_code"
-  ascii_composer/switch_key/Shift_R: "commit_code"
   switcher/caption: "[输入法配置]"
   switcher/option_list_separator: "/"
   switcher/hotkeys:
@@ -210,9 +206,18 @@ patch:
   punctuator/full_shape:
     "#": "#"
     "`": { commit: "`" }
+    "/": "/"
   punctuator/half_shape:
     "#": "#"
     "`": { commit: "`" }
+    "/": "/"
+  ascii_composer/good_old_caps_lock: false
+  ascii_composer/switch_key:
+    Shift_L: noop
+    Shift_R: noop
+    Control_L: noop
+    Control_R: noop
+    Caps_Lock: commit_code
 
 # 使配置生效
 touch ~/.config/ibus/rime/; ibus restart
